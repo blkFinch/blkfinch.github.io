@@ -1,6 +1,6 @@
 ---
 
-title: Intentions
+title: Intentions, Goals, and Desires exist on a spectrum of Order to Disorder
 feed: show
 date: 11-05-2022
 permalink: /credits
