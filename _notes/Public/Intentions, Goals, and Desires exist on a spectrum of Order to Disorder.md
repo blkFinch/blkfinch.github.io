@@ -1,3 +1,12 @@
+---
+
+title: Intentions
+feed: show
+date: 11-05-2022
+permalink: /credits
+format: list
+
+---
 Intentions Goals and desires live on a spectrum of orderliness and specificity.
 
 **Desires**

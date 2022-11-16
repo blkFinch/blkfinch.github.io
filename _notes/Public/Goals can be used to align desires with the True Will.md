@@ -1,3 +1,13 @@
+---
+
+title: Aligning Desires and Goals
+feed: show
+date: 11-05-2022
+permalink: /credits
+format: list
+
+---
+
 Because [[Intentions, Goals, and Desires exist on a spectrum of Order to Disorder]] we can use this relationship to align our actions with our true will.
 
 As we become more clear on our Will we can begin to intuit core values. 
