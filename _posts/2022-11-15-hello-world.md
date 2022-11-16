@@ -1,8 +1,5 @@
 ---
-layout: post
 title:  "The Begining"
-date:   2022-11-15 21:10:12 -0600
-categories: personal
 ---
 
 ### This is where the chronology begins but not necessarily the story
