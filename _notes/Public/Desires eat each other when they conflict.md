@@ -4,6 +4,7 @@ feed: hide
 date : 01-01-2021
 ---
 *write this*
-#placeholder
+#placeholder #in_progress
+
 
 This allows for [[Desires can be fed to other desires]]

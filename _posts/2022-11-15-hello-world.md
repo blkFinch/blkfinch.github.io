@@ -1,5 +1,5 @@
 ---
-title:  "The Begining"
+title:  "The Beginning"
 ---
 
 ### This is where the chronology begins but not necessarily the story
