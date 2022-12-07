@@ -13,19 +13,18 @@ Anti-Mimesis is the philosophical stance that Art influences life. It stands in 
 > And it has always been so. **A great artist** **invents a type, and Life tries to copy it,** to reproduce it in a popular form, like an enterprising publisher
 
 *Oscar Wilde, The Decay of lying*
- 
-<span class='smallimg leftimg' ><figure>
+<span class='leftimg'>
+<figure class='smallimg'>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Dante_Gabriel_Rossetti_-_The_Day_Dream_-_Google_Art_Project.jpg/1200px-Dante_Gabriel_Rossetti_-_The_Day_Dream_-_Google_Art_Project.jpg" alt="Daydream" />
-	<figcaption>
-		<i>'The Day Dream' by Rossetti</i>
-	</figcaption>
-</figure> </span> An artist dreams up or creates from nothing in art. Then life begins to warp around the art. People style their fashion around popular art. Art precedes and life follows.
+	<i>'The Day Dream' by Rossetti</i>
+</figure>
+</span>
+An artist dreams up or creates from nothing in art. Then life begins to warp around the art. People style their fashion around popular art. Art precedes and life follows.
 
 Wilde implies that the propensity of life to mimic works of art is not caused by the imagination but rather by a natural state of Fact . That reality will always seek to reproduce fiction.
 
 _**The imagination seeks to find new form- and life inevitably falls into the form created by imagination**_
 
-<br clear="left" />
 
 
 
@@ -35,7 +34,6 @@ _**The imagination seeks to find new form- and life inevitably falls into the fo
 
 
 
-___
 ### References
 Oscar Wilde, The Decay of Lying
 https://www.online-literature.com/wilde/1307/
