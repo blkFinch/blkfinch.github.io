@@ -2,7 +2,6 @@
 layout: Post
 permalink: /notes
 feedformat: card
-title: Digital Garden
+title: Living Grimoire 
 ---
-
-The feed page shows all notes from `notes` folder. If you want to hide any notes from this feed, add `feed:hide` on note's Frontmatter. Eg:[[Hidden Note]]
+This is a living grimoire. I am actively adding to it. It is a digital collection of my understanding of magical practices.
