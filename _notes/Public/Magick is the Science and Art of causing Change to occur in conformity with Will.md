@@ -4,9 +4,9 @@ date: 2022-11-28
 feed: show
 ---
 
-```
-Magick is **the Science and Art of causing Change to occur in conformity with Will**
-```
+
+>Magick is **the Science and Art of causing Change to occur in conformity with Will**
+
 --Aleister Crowley, Book 4, Part III
 
 This is a famous quote from Crowley, and for good reason. The question "[[What is Magic]]? " has inspired countless words, but Crowley here gives quite a succint answer. An answer I find more and more agreeable as my understanding of Magic grows.
