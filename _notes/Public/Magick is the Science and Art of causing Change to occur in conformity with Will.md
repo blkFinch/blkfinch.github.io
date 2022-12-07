@@ -9,7 +9,7 @@ feed: show
 
 --Aleister Crowley, Book 4, Part III
 
-This is a famous quote from Crowley, and for good reason. The question "[[What is Magic]]? " has inspired countless words, but Crowley here gives quite a succint answer. An answer I find more and more agreeable as my understanding of Magic grows.
+This is a famous quote from Crowley, and for good reason. The question "[[What is Magic]]? " has inspired countless words, but Crowley here gives quite a succinct answer. An answer I find more and more agreeable as my understanding of Magic grows.
 
 Here he makes an initial claim:
 *Magic is an art and a Science*
