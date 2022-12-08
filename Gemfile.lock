@@ -95,6 +95,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.12)
   jekyll-sitemap
   jekyll-tidy
+  kramdown
   kramdown-math-katex
   tzinfo (~> 1.2)
   tzinfo-data
