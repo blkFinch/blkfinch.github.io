@@ -14,3 +14,14 @@ We can see that magic involves some sort of change to the external environment. 
 
 Magic, intuitively stands against secular culture, but on closer inspection we may find that there is little within magical practice that is inherently superstitious or uninformed. In fact, we see many originally "occult" principals on full display within secular society but they have been sanitized of cultural understanding and rebranded to be instrumentalized by capitalism and the [[The cult of productivity]]. 
 #in_progress 
+
+___
+### References
+
+>Magick is **the Science and Art of causing Change to occur in conformity with Will**
+
+--Aleister Crowley, Book 4, Part III
+
+>Magic is but one's natural ability to attract without asking
+
+*Austin Osman Spare, The Book of Pleasure*
