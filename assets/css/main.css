@@ -272,7 +272,7 @@ span {
   font-weight: inherit; }
 
 strong {
-  color: var(--color-text-main);
+  color: var(--color-accent);
   font-weight: 700; }
 
 fieldset {
@@ -1122,6 +1122,7 @@ a.box-feed:active {
 .content blockquote {
   background-color: var(--color-bg-main);
   border-left: 5px solid var(--color-border-light);
+  color: var(--color-accent)
 }
 .content ol {
   list-style-position: inside;
