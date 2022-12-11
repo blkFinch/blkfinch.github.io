@@ -1,3 +1,4 @@
+
 /* For Image embeds */
 .leftimg {
     display: block;
@@ -39,6 +40,10 @@ max-width: 800px
 /* Typography */
 
 .hltxt{
-  background-color: #ff00ff;
+  background-color: #df00df;
   color:white;
+}
+
+li {
+  color: #df00df;
 }

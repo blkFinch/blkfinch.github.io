@@ -31,15 +31,15 @@ html[data-theme="dark"] {
 
     html,
     html[data-theme="dark"] {
-        --color-bg-main: #262626;
+        --color-bg-main: #000000;
         --color-bg-sub: #18181C;
         --color-text-main: #FAFAFC;
         --color-text-sub: #FFFEFF;
-        --color-text-link: #45B08C;
+        --color-text-link: #65ffcc;
         --color-border-dark: #E6E6E6;
         --color-border: #696969;
         --color-border-light: #353535;
-        --color-accent: #2EA1D9;
+        --color-accent: #7c7cff;
         --color-highlight: #f08e8e;
     }
 
