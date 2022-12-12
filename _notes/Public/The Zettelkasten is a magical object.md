@@ -8,7 +8,7 @@ feed: show
 
 > <span class='hltxt'>As a result of extensive work with this technique a kind of secondary memory will arise, an alter ego with who we can constantly communicate.</span> It proves to be similar to our own memory in that it does not have a thoroughly constructed order of its entirety, not hierarchy, and most certainly no linear structure like a book.<span class='hltxt'> Just because of this, it gets its own life, independent of its author.</span>
 
-This emergence of a seperate consciousness is similar in nature to Golems, Tulpas, or Servitors. Functiontionally we are creating a golem but instead of using blood and clay as the medium for this new life, we are using our own knowledge- externalized and made living by threading the pieces together.
+This emergence of a seperate consciousness is similar in nature to Golems, Tulpas, or Servitors. Functiontionally we are [[creating a golem]] but instead of using blood and clay as the medium for this new life, we are using our own knowledge- externalized and made living by threading the pieces together. 
 
 ___
 ### References

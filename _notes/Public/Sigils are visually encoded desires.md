@@ -5,4 +5,4 @@ feed: show
 ---
 #in_progress 
 
-Sigils are a visual representation of a [[Desire]]
+Sigils are a visual representation of a [[Desires]]

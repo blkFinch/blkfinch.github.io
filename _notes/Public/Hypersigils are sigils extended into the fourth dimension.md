@@ -5,7 +5,7 @@ feed: show
 ---
 If [[Sigils are visually encoded desires]] then a hypersigil takes this concept and extends it through time by adding plot or narrative.
 
-This means that the sigil is not a static image but a *seqence* wherein a representative object undergoes change. Typically this sigilized object represents the operator of the magic and the change is the intended [[Desire]]
+This means that the sigil is not a static image but a *seqence* wherein a representative object undergoes change. Typically this sigilized object represents the operator of the magic and the change is the intended [[Desires]]
 
 
 #in_progress 
