@@ -4,7 +4,7 @@ date: 2022-12-12
 feed: show
 tags: #literature #magic 
 ---
-
+#litnote 
 **MAGICK LIBER ABA**
 
 *ALEISTER CROWLEY

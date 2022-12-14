@@ -19,7 +19,7 @@ Consider the following example:
 
 These two desires conflict with each other and there is very few ways for them both to become manifest in reality. What is likely to happen is one desire will thwart the other and niether will come to fruition.
 
-This is why [[crowley]] claimed [[Lesser wills and desires must be organized under a single aspiration to attain]] 
+This is why [[Crowley]] claimed [[Lesser wills and desires must be organized under a single aspiration to attain]] 
 
 Because of this, [[Desires can be fed to other desires]]
 

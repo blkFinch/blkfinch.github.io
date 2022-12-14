@@ -5,9 +5,11 @@ feed: show
 tags: #magic 
 ---
 
-most people have scattered and conflicting [[desires]] which cancel each other out, because [[Desires eat each other when they conflict]]. This leads to a dispersion of willpower.
+most people have scattered and conflicting [[Desires]] which cancel each other out, because [[Desires eat each other when they conflict]]. This leads to a dispersion of willpower.
 
 According to [[Crowley]] The student must have a single pointed will upon which all others must be aligned. Any will which deviates from that primary will to attain are disorganized and will hinder progress.
+
+#litnote
 
 ___
 ### References
