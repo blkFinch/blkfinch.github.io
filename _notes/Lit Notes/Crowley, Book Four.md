@@ -7,7 +7,7 @@ tags: #literature #magic
 #litnote 
 **MAGICK LIBER ABA**
 
-*ALEISTER CROWLEY
+*ALEISTER [[CROWLEY]]
 WITH MARY DESTI AND LEILA WADDELL*
 
 [BookFour-ano.pdf](https://drive.google.com/file/d/1FnkhvD2B3maoIW_VFuVOZya2Tv3BMRHD/view?usp=drivesdk)

@@ -12,7 +12,7 @@ Many magicians have answered in different ways but we can see certain patterns e
 
 We can see that magic involves some sort of change to the external environment. And that [[Magic is an expression of the will]] .
 
-Magic, intuitively stands against secular culture, but on closer inspection we may find that there is little within magical practice that is inherently superstitious or uninformed. In fact, we see many originally "occult" principals on full display within secular society but they have been sanitized of cultural understanding and rebranded to be instrumentalized by capitalism and the [[The cult of productivity]]. 
+Magic, intuitively stands against secular culture, but on closer inspection we may find that there is little within magical practice that is inherently superstitious or uninformed. In fact, we see many originally "occult" principals on full display within secular society but they have been sanitized of cultural understanding and rebranded to be instrumentalized by capitalism and [[The Cult of Productivity]]
 #in_progress 
 
 ___
