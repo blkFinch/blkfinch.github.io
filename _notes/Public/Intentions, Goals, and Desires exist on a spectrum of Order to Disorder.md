@@ -10,7 +10,7 @@ format: list
 Intentions Goals and desires live on a spectrum of orderliness and specificity.
 
 **Desires**
-Desires arise from the lower senses and as such are based in material reality. For this reason they are specific and often times aesthetic.
+[[Desires]] arise from the lower senses and as such are based in material reality. For this reason they are specific and often times aesthetic.
 
 _“I want a cute goth girlfriend”_
 _“I want to eat sushi in Japan”_
@@ -25,3 +25,8 @@ Goals are internally consistent
 
 **Intentions**
 Intentions are pure expression of the Will. Intentions are decisions, not based in desire or requiring planning or actions. When one intends to have water they simply rise and walk to the sink. In these moments all of the Will and Mind are coordinated and fully expressed
+
+___
+### References
+
+[Medium Blog](https://divinemasculine.medium.com/goals-vs-desires-vs-intentions-d2e8cbb2af20)
