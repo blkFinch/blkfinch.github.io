@@ -5,7 +5,7 @@ feed: hide
 tags:
 ---
 
-**For a desire to manifest it must meet both these conditions:**
+**For [[Desires]] to manifest they must meet both these conditions:**
 
 1.  I must believe it is possible in material reality
 2.  I must be willing to accept the result NOW (not soon or someday but I must be willing to receive the result immediately)

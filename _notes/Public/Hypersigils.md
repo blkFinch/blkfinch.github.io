@@ -9,6 +9,8 @@ The desire is conveyed through narrative tools like character and drama, but the
 
 The theory behind hypersigils is closesly related to the idea of Anti-Mimesis or [[Life imitates art]]. If the natural world  will inevitably form itself around art then it makes sense to create art in a way that will cause the world to change in a manner in accordance with our desires. 
 
+[[Steps for creating a hypersigil]] 
+
 ___
 ### References
 [[Aidan Wachter, Weaving Fate]]
