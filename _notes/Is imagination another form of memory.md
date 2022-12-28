@@ -1,9 +1,10 @@
-em---
+---
 title: Is imagination another form of memory
-date: 2022-12-23
+date: 2022-12-24
 feed: show
 tags:
 ---
+
 Connection between hippocampus and imagination:
 - hippocampus vital in constructing novel scenarios (also used for memory recall) *patients with hippocampal damage have trouble imagining future events*
 - using multivariate fMRI imaging, researchers were able to detect differences in the type of activity appearing in the hippocampus between imagination and memory

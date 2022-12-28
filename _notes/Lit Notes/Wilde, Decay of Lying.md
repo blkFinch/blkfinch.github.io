@@ -1,7 +1,7 @@
 ---
 title: Wilde, Decay of Lying
 date: 2022-12-22
-feed: show
+feed: hide
 tags: lit
 ---
 #litnote

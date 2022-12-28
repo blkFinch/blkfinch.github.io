@@ -19,6 +19,9 @@ It can simply **be** us if we are writing from a first person point of view. But
 This character is totemic. As it is acted upon by the narrative, so too do we. 
 
 ### Sympathetic Feedback Loop
+
+The sympathetic feedback loop is a process of blurring the line between memory and imagination. By using the interconnected systems in the brain of memory and imagination ([[Is imagination another form of memory]]? ) we can begin to create a sensation of remembering events that havent yet happened and imagining events that will.
+
 >The key, it seems, is to create a two way sympathetic response from creating and reading the entries.
 > 
 > 1. Use actual events from your life in the entries.
@@ -36,3 +39,11 @@ This character is totemic. As it is acted upon by the narrative, so too do we.
 > Ideally we begin to create a situation where we are both _remembering_ events that haven't happened yet, and _experiencing_ events we only
 > imagined. This is like __priming a pump__ and as we begin to become more in sync with the character of our sigil- we can begin to stretch the
 > bounds of that sympathetic bond.
+
+*Zeus Magnolia on the feedback loop*
+
+___
+### References
+Zeus Magnolia, *Creating a Hypersigil*
+
+[[Aidan Wachter, Weaving Fate]] 
