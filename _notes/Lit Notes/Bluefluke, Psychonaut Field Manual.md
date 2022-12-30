@@ -21,7 +21,7 @@ Method for banishing and casting spells. Involves, sigils, intoning the sigilize
 - Trace each sigil in the air while intoning each word (causing a vibration in the body)
 
 ### 8 circuits
-Bluefluke connects something called the 8 circuits of consciouness to the sephira throughout this book. This is interesting, and could be a helpful way of pinpointing better at the correlated sphere to be invoking/working with depending on desired results.
+Bluefluke connects the [[Eight-circuit model of consciousness]] to the sephira throughout this book. This is interesting, and could be a helpful way of pinpointing better at the correlated sphere to be invoking/working with depending on desired results.
 
 | Circuit | Sephira |
 |--------|----------|
