@@ -5,10 +5,10 @@ feed: show
 tags:
 ---
 
-- Knowledge (air)
-- Will (Fire)
-- Courage (Water)
-- Silence (Earth)
+- Knowledge (air), to know, *vide*
+- Will (Fire), to will, *vole*
+- Courage (Water), to dare, *aude*
+- Silence (Earth), to remain silent, *tace*
 
 
 ___

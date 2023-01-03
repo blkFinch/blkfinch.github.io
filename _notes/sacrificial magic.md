@@ -10,7 +10,7 @@ I find this topic interesting. I personally find the act of animal sacrifice abh
 Ritual sacrifice (animal or otherwise) has been used throughout history across the world for many different reasons. It is worth discussing and not simply casting off as a "barbaric" relic of a bygone era. 
 
 ### Crowley, liber LXX
-In this libri, crowley describes the ritual sacrifice of a frog. 
+In this libri, [[Crowley]] describes the ritual sacrifice of a frog. 
 
 In this [forum thread](https://www.lashtal.com/forums/magick/torturous-animal-sacrifice/) from 2008 there is some lively discussion about this topic
 - is there a such thing as a moral right and wrong?

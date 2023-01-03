@@ -12,7 +12,7 @@ Anti-Mimesis is the philosophical stance that Art influences life. It stands in 
 > 
 > And it has always been so. **A great artist** **invents a type, and Life tries to copy it,** to reproduce it in a popular form, like an enterprising publisher
 
-*Oscar Wilde, The Decay of lying*
+ [[Wilde, Decay of Lying]]
 <div>
 <span class='leftimg'>
 <figure class='smallimg'>
