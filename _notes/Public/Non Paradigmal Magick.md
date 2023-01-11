@@ -7,7 +7,9 @@ tags:
 
 An experimental group working around developing a pantheon of [[Egregores]] and [[servitors]].
 
-The working revolves around choosing the appropriate egregore for the "color of magick" you wish your servitor to be a part of. Then doing a  fairly standard "charging ritual" [[creating an Internal Conscious Being]] 
+The working revolves around choosing the appropriate egregore for the "color of magick" you wish your servitor to be a part of. Then doing a  fairly standard "charging ritual"(see  [[creating an Internal Conscious Being]] )
+
+This is supposedly a "non-paradigm" based system but it very openly is based on [[The 8 Colors of Chaos Magick]] which is a paradigm created by Peter Carroll. so... This falls into another example of [[Chaos Magick is not free from ideology]]
 
 >Ritual For Servitor Creation
 >
@@ -47,4 +49,7 @@ any appropriate offerings. When you are ready, close the ritual.
 
 AFAIK this is an experiment created by magicians from the Faith Blind Podcast. 
 
+___
+### References
+NPM Servitor Creation
 [source](https://docslib.org/doc/6801858/non-paradigmal-magick-this-manuscript-lays-out-an-exercise-in-non-paradigmal-pantheon-creation)

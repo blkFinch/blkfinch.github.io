@@ -4,9 +4,6 @@ date: 2022-12-20
 feed: show
 tags:
 ---
-
-#todo review [[Aidan Wachter, Weaving Fate]] and summarize steps, clean up
-
 1. Consecrate Book and Pen
 2. Write about events you want to experience
 3. Focus on the details not the specifics ([[For magic to work the result must be possible]])
