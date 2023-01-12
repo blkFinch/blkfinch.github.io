@@ -24,7 +24,7 @@ The vagueness comes from a an inability to see the true will
 Goals are internally consistent
 
 **Intentions**
-Intentions are pure expression of the Will. Intentions are decisions, not based in desire or requiring planning or actions. When one intends to have water they simply rise and walk to the sink. In these moments all of the Will and Mind are coordinated and fully expressed
+Intentions are pure expression of [[The Will]]l. Intentions are decisions, not based in desire or requiring planning or actions. When one intends to have water they simply rise and walk to the sink. In these moments all of the Will and Mind are coordinated and fully expressed
 
 ___
 ### References
