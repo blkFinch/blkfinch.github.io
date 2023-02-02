@@ -17,7 +17,7 @@ html[data-theme="light"] {
 }
 
 html[data-theme="dark"] {
-    --color-bg-main: #262626;
+    --color-bg-main: #222020;
     --color-bg-sub: #18181C;
     --color-text-main: #FAFAFC;
     --color-text-sub: #FFFEFF;
@@ -31,7 +31,7 @@ html[data-theme="dark"] {
 
     html,
     html[data-theme="dark"] {
-        --color-bg-main: #000000;
+        --color-bg-main: #222020;
         --color-bg-sub: #18181C;
         --color-text-main: #FAFAFC;
         --color-text-sub: #FFFEFF;
