@@ -10,7 +10,7 @@ tags:
 2.  Hold these ideas with no value judgement or reaction until they become completely equal in the mind
 3.  When these sperate ideas appear to be ONE then direct my Will to Love that single idea
 
-
+[[Love]]
 ___
 ### References
 _[[Crowley]], Liber CL_
