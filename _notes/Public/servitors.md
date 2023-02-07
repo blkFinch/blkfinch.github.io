@@ -4,7 +4,7 @@ date: 2023-01-05
 feed: show
 tags:
 ---
- (see: [[creating an Internal Conscious Being]] ) 
+ (see: [[Creating an Internal Conscious Being]] ) 
 This is a conscious non material entity created by the magician. 
 There are many theories and versions of this concept: tulpas, and Bardon's elementals and elementarys are the same concept. 
 

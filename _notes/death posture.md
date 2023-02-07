@@ -5,3 +5,9 @@ feed: hide
 tags:
 ---
 #todo refs from AO Spare, Frater UD, and Peter Caroll 
+
+___
+### References
+
+[[Peter Carroll, Liber Null]]
+[[Austin Osman Spare, The Book of Pleasure]] 

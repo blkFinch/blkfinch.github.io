@@ -7,7 +7,7 @@ tags:
 
 An experimental group working around developing a pantheon of [[Egregores]] and [[servitors]].
 
-The working revolves around choosing the appropriate egregore for the "color of magick" you wish your servitor to be a part of. Then doing a  fairly standard "charging ritual"(see  [[creating an Internal Conscious Being]] )
+The working revolves around choosing the appropriate egregore for the "color of magick" you wish your servitor to be a part of. Then doing a  fairly standard "charging ritual"(see  [[Creating an Internal Conscious Being]] )
 
 This is supposedly a "non-paradigm" based system but it very openly is based on [[The 8 Colors of Chaos Magick]] which is a paradigm created by Peter Carroll. so... This falls into another example of [[Chaos Magick is not free from ideology]]
 

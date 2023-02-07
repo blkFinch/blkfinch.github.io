@@ -20,3 +20,6 @@ _[[Crowley]], Liber CL_
 > 
 > **When this is thorough and profound in the impact of its realization, then is the moment for the aspirant to direct his Will to Love upon it, so that his whole consciousness findeth focus upon that One Idea**. And at the first it may be fixed and dead, or lightly held. This may then pass into dryness, or into repulsion. Then at last by pure persistence in that Act of Will to Love, shall Love himself arise, as a bird, as a flame, as a song, and the whole Soul shall wing a fiery path of music unto the Ultimate Heaven of Possession.
 
+[[Austin Osman Spare, The Book of Pleasure]]
+>Percieve, and feel without the necessity of an opposite, but by its relative. Percieve light without shadow by its own colour as contrast, through evoking the emotion of laughter at the time of ecstasy in union, and by practice till that emotion is untiring and subtle.
+

@@ -12,7 +12,7 @@ method of sigilization / servitor creation
 - pick card 2 and the desired outcome and combine their names into a single sigil
 - enter gnosis and bring the sigil to life and send it on its way
 
-__this style of charging seems to be akin to the [[death posture]] as described by Caroll, and first coined by Spare__
+__this style of charging seems to be akin to the [[Death Posture]] as described by Caroll, and first coined by Spare__
 
 ### Soul Resonance
 Method for banishing and casting spells. Involves, sigils, intoning the sigilized word, and visualizing the sigil

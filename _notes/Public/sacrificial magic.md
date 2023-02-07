@@ -4,7 +4,6 @@ date: 2022-12-20
 feed: hide
 tags:
 ---
-#in_progress 
 
 I find this topic interesting. I personally find the act of animal sacrifice abhorrent. Yet I allow it to occur on my behalf daily as I eat meat. Could I kill my own food even for sustenence? 
 Ritual sacrifice (animal or otherwise) has been used throughout history across the world for many different reasons. It is worth discussing and not simply casting off as a "barbaric" relic of a bygone era. 

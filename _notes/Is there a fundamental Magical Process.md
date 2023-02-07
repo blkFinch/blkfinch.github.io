@@ -2,8 +2,9 @@
 title: The Magical Process
 date: 2022-12-13
 feed: show
-tags:
+tags: 
 ---
+#outline
 
 <span class="hltxt"> needs a better name, references --- develop this more </span>
 
@@ -12,7 +13,7 @@ My working theory is that there is a fundamental pattern to most magical practic
 - purify 
 - destroy blockage
 - set intent
-- enter hyper reality (or altered reality)
+- enter hyper reality (or altered reality) [[The Magic Circle]]
 - Actively choose intent
 - Leave hyper reality (sealing)
 
