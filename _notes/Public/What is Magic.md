@@ -15,7 +15,6 @@ We can see that magic involves some sort of change to the external environment. 
 Magic, intuitively stands against secular culture, but on closer inspection we may find that there is little within magical practice that is inherently superstitious or uninformed. In fact, we see many originally "occult" principals on full display within secular society but they have been sanitized of cultural understanding and rebranded to be instrumentalized by capitalism and [[The Cult of Productivity]]
 
 If we can narrow in on what the Goal of magic is- then we can perhaps answer the question [[Is there a fundamental Magical Process]] ? I suspect there is. While the aesthetics of magic may change I do believe there is an underlying phsycho-physiological process that occurs during successful ritual. 
-#in_progress 
 
 ___
 ### References
