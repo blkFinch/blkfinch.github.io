@@ -4,6 +4,7 @@ date: 2023-01-24
 feed: hide
 tags: #litnote 
 ---
+#todo *create idea notes from some of these topics*
 Major Takeaways:
 - All dominance is consensual- The key is to create safety for our partner to feel they are able to submit
 - To maintain consent- the _container of submission_ must be clearly defined and not all-encompasing

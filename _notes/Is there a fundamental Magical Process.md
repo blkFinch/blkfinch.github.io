@@ -11,7 +11,7 @@ tags:
 My working theory is that there is a fundamental pattern to most magical practices. We can look to successful operations and they should mostly contain or be part of the following sequence
 
 - purify 
-- destroy blockage
+- destroy blockage [[Banishing]]
 - set intent
 - enter hyper reality (or altered reality) [[The Magic Circle]]
 - Actively choose intent

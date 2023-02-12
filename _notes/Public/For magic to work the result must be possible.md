@@ -5,7 +5,7 @@ feed: show
 tags:
 ---
 
-Magic alters pre-material conditions to cause material expressions to manifest. Because all things material must eventually come to us through material- they are still bound by the laws of the material plane. 
+Magic alters pre-material conditions to cause material expressions to manifest([[Magic Aligns The Personal Chain of Desire]]). Because all things material must eventually come to us through material- they are still bound by the laws of the material plane. 
 
 What is possible is broad however, and this principle explains the axiom [[Knowledge is Power]] , for if one knows the processes through which something could happen- they can then perform magic to alter and affect those processes. 
 
