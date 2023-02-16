@@ -5,4 +5,5 @@ feed: hide
 tags:
 ---
 
-The master of masters. Creator of Hermeticism. 
+The master of masters. Creator of [[Hermeticism]]. 
+#todo add more biographical

@@ -18,7 +18,7 @@ Knowledge is power. In an occult context, this is meant in a very literal sense.
 
 I also often hear magicians suggesting that incantations and barbarous names work almost by nature of their "vibration" and need not be understood. *To Know* , being a fundamental power of the magican implies otherwise, and Crowley directly states in [[Liber Samekh DCCC]] that all the incantations must not only be understood but deeply internalized.
 
-- In [[Swami Vivekananda, Raja Yoga 1]] , it is thought that having knowledge over an element allows the yogi to control it
+- In [[Swami Vivekananda, Raja Yoga]] , it is thought that having knowledge over an element allows the yogi to control it
 - in [[Rosicrucianism]] it is suggested that deep meditation on an object will give you knowledge of the object
 
 ## To Will
