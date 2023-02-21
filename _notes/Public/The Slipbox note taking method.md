@@ -4,7 +4,7 @@ date: 2022-12-09
 feed: show
 Tags: #productivity, #zettelkasten
 ---
-The zettlekasten (slip box) is a method of note taking designed by Niklas Luhmann in the 1950s and 60s. While his system was done by hand on index cards using a linking system to connect cards to other cards, many contemporary scholars and note takers have adapted his system to digital ecosystems- which allow for easy and flexible linking and search capabilities. 
+The zettlekasten (slip box) is a method of note taking designed by [[Niklas Luhman]] in the 1950s and 60s. While his system was done by hand on index cards using a linking system to connect cards to other cards, many contemporary scholars and note takers have adapted his system to digital ecosystems- which allow for easy and flexible linking and search capabilities. 
 
 The primary principal of the slipbox was one of non-hierarchacal information organization. Each note was to be atomic, and automonous and thuse could be linked freely to any other note in the system. Every note must be linked to at least one other. What begins to develop over time is a network of linked ideas.
 
@@ -21,6 +21,7 @@ Some rules to follow when developing a slipbox:
 9. never delete: Just create a new note explaining why previous note was wrong
 10. be fearless: focus on information I find novel or interesting without thinking about its future use or audience
 
+The slipbox was meant to be a communication partner. [[A presupposition of communication is that partners can mutually surprise each other]] . And so the slipbox is able to produce novel ideas- to surprise the user even though they made the tool. To achieve this- Ideas must be deeply linked so that when searching for one idea new connected threads emerge. It begins to take on its own "beingness".  In this way [[The Zettelkasten is a magical object]] .
 
 
 ___
