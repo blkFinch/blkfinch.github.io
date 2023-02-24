@@ -51,6 +51,6 @@ Also another based quote from the kybalion:
 
 ___
 ### References
-The Kybalion, Three Initiates 
+[[The Kybalion]], Three Initiates 
 
 (*likely *William W. Atikinson* so sayeth wikipedia (although he does seem a likely candidate judging from his other book "The Four Arcane Truths"))
