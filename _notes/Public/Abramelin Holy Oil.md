@@ -4,13 +4,13 @@ date: 2022-12-12
 feed: show
 tags: #magic 
 ---
-A recipe for Abramelin oil. This is the same recipe found in Mathers translation of *The Magic of Abramelin* but [[Crowley]] has added correspondences to various  sephira 
+A recipe for Abramelin oil. This is the same recipe found in Mathers translation of  [[Abramelin]]'s ' *The Magic of Abramelin* but [[Crowley]] has added correspondences to various  sephira 
 
 ### Recipe
 - olive oil
-- myrrh (binah)
-- cinnamon (Tipareth)
-- Galangal (Kether and Malkuth)
+- myrrh ([[binah]])
+- cinnamon ([[Tipareth]])
+- Galangal ([[Kether]] and [[Malkuth]])
 
 ___
 ### References

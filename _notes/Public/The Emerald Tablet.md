@@ -33,3 +33,7 @@ A translation of the tablet by Isaac Newton was found among his alchemical paper
 	Hence I am called Hermes Trismegist, having the three parts of the philosophy of the whole world.  
 	That which I have said of the operation of the Sun is accomplished and ended.
 
+This is the first known source for the second principle of [[Hermeticism]] 
+>That which is below is like that which is above and that which is above is like that which is below  
+
+[[As Above, So below- As below, so above]]

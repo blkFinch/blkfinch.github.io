@@ -4,7 +4,6 @@ date: 2022-12-30
 feed: show
 tags:
 ---
-#in_progress 
 Model of understanding various "experiences of consciousness" . First proposed by Tim Leary and then refined by Robert Anton Wilson.
 
 ## Terrestial Circuits
@@ -62,3 +61,7 @@ This is our connection to our evolutionary history- and in fact the genetic hist
 *Neuro-Atomic Metaphysiology / Non-Local Quantum*
 
 Non-local awareness and enlightenment.
+
+___
+### References
+[[Robert Anton Wilson]], Prometheus Rising
