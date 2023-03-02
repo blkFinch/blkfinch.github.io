@@ -11,7 +11,9 @@ Under some modalities this is another form of servitor creation that creates an 
 ___
 ### References
 [Invocation to Apollo](https://mythologyisforhipsters.weebly.com/invocations-to-apollo.html)
+
 [Orphic Hymn to Hekate](https://www.hellenicgods.org/the-orphic-hymn-to-hecate-aekati---hekate)
 
 [[Peter Carroll, Liber Null]]
+
 [[Bluefluke, Psychonaut Field Manual]]
