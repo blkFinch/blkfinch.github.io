@@ -18,4 +18,4 @@ ___
 
 > Etheric Projection, in which the physical body is reduced to a state resembling catalepsy (the breathing in fact becomes very shallow and may cease altogether for some time). Meanwhile, more of the basic 'etheric' substance (6) is extruded from the body and accompanies the consciousness a limited distance from the body.
 
-Techniques of High Magic
+[[Techniques of High Magic]]

@@ -9,3 +9,5 @@ Christian mysticism. Still living orders include:
 - BOTA
 - Rosicrucian Fellowship in Oceanside
 - AMORC 
+
+Popularized by [[Paul Foster Case]] in his book [[The True and Invisible Rosicrucian Order]]

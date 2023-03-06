@@ -19,3 +19,9 @@ My working theory is that there is a fundamental pattern to most magical practic
 
 
 Almost all magical and mystical practices begin with a [[Banishing]] of some sort, or a purification process.
+
+==Can This process be represented using the [[Chaldean Scheme]] ?==
+- Initiate
+- Maintain
+- Protect
+- Execute
