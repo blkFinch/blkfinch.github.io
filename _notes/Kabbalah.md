@@ -17,3 +17,5 @@ A map of the construction of the totality of reality. Divides the [[Godhead]] in
 - [[Hod]]
 - [[Yesod]]
 - [[Malkuth]]
+
+[[The Tree of Life can be used to describe the aspects of consciouness]]

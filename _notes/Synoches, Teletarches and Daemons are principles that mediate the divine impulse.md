@@ -17,5 +17,5 @@ These correspondances are initially devised within the [[Chaldean Scheme]] of th
 
 ___
 ### References
-_Sabazius_ , Commentary on the Ritual of the Star Ruby
+_Sabazius_ , Commentary on the Ritual of the [[Star Ruby]]
 https://www.hermetic.com/sabazius/starruby_rit

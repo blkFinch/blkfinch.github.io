@@ -11,3 +11,5 @@ tags:
 - [[A method of Scrying the Enochian Aethyrs]]
 - [[Steps for creating a hypersigil]]
 - [[Creating an Internal Conscious Being]]
+- [[Star Ruby]]
+
