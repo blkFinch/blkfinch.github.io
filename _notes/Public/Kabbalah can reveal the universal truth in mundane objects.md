@@ -1,5 +1,5 @@
 ---
-title: Kabbalah reveals the universal truth in all objects
+title: Kabbalah can reveal the universal truth in mundane objects
 date: 2022-12-15
 feed: show
 tags: #kaballah #magic 
