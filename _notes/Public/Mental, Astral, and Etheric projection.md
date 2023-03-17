@@ -10,6 +10,16 @@ The three sorts of projection are often conflated with one another. These terms 
 -   Astral: closer to lucid dreaming. Can experience actual parts of physical plane from the astral
 -   Etheric: Full embodiment in the etheric body == OBE
 
+## OBE
+When consciously entering an astral projection or OBE experience- one begins by first relaxing to the point of sleep paralysis. 
+
+### Signs of incoming OBE:
+- Tightness of throat
+- anxiety
+- Vibrations that increase in intensity
+- flashing light
+- falling sensations
+
 ___
 ### References
 > Mental Projection, concerned mainly with exploratory acts of skrying or the using of symbolic doors as an aid to understanding a particular part of the astral plane. This is 'projection-by-symbol'.

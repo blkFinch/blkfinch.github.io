@@ -9,6 +9,8 @@ The desire is conveyed through narrative tools like character and drama, but the
 
 The theory behind hypersigils is closesly related to the idea of Anti-Mimesis or [[Life imitates art]]. If the natural world  will inevitably form itself around art then it makes sense to create art in a way that will cause the world to change in a manner in accordance with our desires. 
 
+Because [[Hypersigils are formed by deeply identifying with a narrative work]], there exists the danger with any great art that we may become transfixed by it- and the tragedy that befalls its characters may befall us in kind- creating [[Negative Hypersigils]]
+
 [[Steps for creating a hypersigil]] 
 
 ___

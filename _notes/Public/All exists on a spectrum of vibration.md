@@ -14,3 +14,8 @@ For example: in Platonism, there is the concept of the Platonic Ideal (*i.e. The
 ### Seperation of Interaction
 
 While there is not actually a hard division between these Planes, there is a seperation of interaction between these various ranges of vibrations, because __only vibrations of similar rates can interact with each other__. But there is some cross over as the lowest vibrations of the Astral Plane can affect the highest vibrations of the physical plane which can then act upon the lower vibrations of the physical plane
+
+___
+### References
+ [[The Kybalion]]
+ >This Principle explains that the differences between different manifestations of Matter, Energy, Mind, and even Spirit, result largely from varying rates of Vibration. From THE ALL, which is Pure Spirit, down to the grossest form of Matter, all is in vibration—the higher the vibration, the higher the position in the scale.
