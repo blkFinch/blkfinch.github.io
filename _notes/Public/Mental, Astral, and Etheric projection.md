@@ -7,7 +7,7 @@ tags:
 The three sorts of projection are often conflated with one another. These terms are the most standard that I can find
 
 -   Mental: Uses the imagination and symbols to communicate meaning. Feels like Daydreaming.
--   Astral: closer to lucid dreaming. Can experience actual parts of physical plane from the astral
+-   Astral: closer to [[Lucid dreaming]]. Can experience actual parts of physical plane from the astral
 -   Etheric: Full embodiment in the etheric body == OBE
 
 ## OBE
