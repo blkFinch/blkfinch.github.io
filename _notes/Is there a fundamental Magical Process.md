@@ -17,6 +17,8 @@ My working theory is that there is a fundamental pattern to most magical practic
 - Actively choose intent
 - Leave hyper reality (sealing)
 
+*Ultimately it may be as simple as making a decision: [[There are three fundamental steps in making a true decision]]*
+
 
 Almost all magical and mystical practices begin with a [[Banishing]] of some sort, or a purification process.
 
@@ -25,3 +27,4 @@ Almost all magical and mystical practices begin with a [[Banishing]] of some sor
 - Maintain
 - Protect
 - Execute
+

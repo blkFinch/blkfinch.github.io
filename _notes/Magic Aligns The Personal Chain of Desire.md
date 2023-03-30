@@ -13,3 +13,5 @@ tags: #outline
 - [[Desires]]
 - [[Will expresses itself through desire]]
 - [[Magic is an expression of the will]]
+- [[Magic is the art of making a true Decision]]
+- 

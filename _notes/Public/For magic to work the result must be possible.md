@@ -5,7 +5,10 @@ feed: show
 tags:
 ---
 
+
 Magic alters pre-material conditions to cause material expressions to manifest([[Magic Aligns The Personal Chain of Desire]]). Because all things material must eventually come to us through material- they are still bound by the laws of the material plane. 
+
+This means that if we wish to see Paris, our magic will likely not result in us being transported to Paris, but rather we may win a plane ticket or be invited by a friend to travel through mundane methods.
 
 What is possible is broad however, and this principle explains the axiom [[Knowledge is Power]] , for if one knows the processes through which something could happen- they can then perform magic to alter and affect those processes. 
 
