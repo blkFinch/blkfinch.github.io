@@ -15,7 +15,7 @@ This method is simple, but there are many tips and variations to help it. Here a
 
 Step 3 above can be done in several different ways. Most often the suggestion is to use visualization. Start with visualizing a shape, then move to more complex images, until you are imagining yourself in a fully embodied scene.
 
-*Alternatively -- this would be a good time to attempt an OBE* 
+*Alternatively -- this would be a good time to attempt an OBE* [[Mental, Astral, and Etheric projection]]
 
 ___
 ### References

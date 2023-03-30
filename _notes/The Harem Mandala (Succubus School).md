@@ -20,3 +20,5 @@ Using [[Shamanic Dreaming]] techniques during these visitations will allow the p
 ## Creating the Mandala
 
 Using this example we can construct our own harem mandala and use our sex energy to unite with various entities in congress. This sexual union becomes the doorway to the realm with which we are trying to evoke. We can create the mandala in the same way we create our mental palace and the temple. 
+
+We can populate it with Succubus students that are formed through [[Evocation of succubus within lucid dreams]]
