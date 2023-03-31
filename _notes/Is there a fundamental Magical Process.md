@@ -1,5 +1,5 @@
 ---
-title: The Magical Process
+title: Is there a fundamental Magical Process
 date: 2022-12-13
 feed: show
 tags: 
