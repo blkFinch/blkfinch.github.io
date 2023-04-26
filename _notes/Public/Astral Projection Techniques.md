@@ -33,7 +33,7 @@ CONTINUE FOR 4 WEEKS DAILY — best if same time and place
 Create a mental path to travel that leads up a mountain. Imagine yourself walking this path. At the top of the mountain are two pillars one white and one black with a veil between them. Sit in front of the veil and imagine another you on the other side. Shift consciousness to the other you.
 
 ## Technique C
-
+*Technique for etheric projection*
 Project in any manner.
 
 -   face the body
