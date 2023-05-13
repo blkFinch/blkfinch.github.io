@@ -26,3 +26,8 @@ The circle represents the infinite and centers the magician within it. It affirm
 
 > **The will being a lever, a fulcrum is necessary; this fulcrum is the main aspiration of the student to attain**. All wills which are not dependent upon this principal will are so many leakages**; they are like fat to the athlete.
 The majority of the people in this world are ataxic; they cannot coordinate their mental muscles to make a purposed movement. **They have no real will, only a set of wishes, many of which contradict others**. The victim wobbles from one to the other (and it is no less wobbling because the movements may occasionally be very violent) and at the end of life the movements cancel each other out. Nothing has been achieved; except the one thing of which the victim is not conscious: the destruction of his own character, the confirming of indecision. Such an one is torn limb from limb by Choronzon.
+
+### The Great Work
+>I devoted myself consciously to the Great Work, understanding thereby __the Work of becoming a Spiritual Being free from the constraints, accidents, and deceptions of material existence.__
+
+Sutin, Lawrence. Do What Thou Wilt (pp. 6-7). St. Martin's Publishing Group. Kindle Edition. 
