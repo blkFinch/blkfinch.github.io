@@ -19,3 +19,5 @@ ___
 ### References
 _Sabazius_ , Commentary on the Ritual of the [[Star Ruby]]
 https://www.hermetic.com/sabazius/starruby_rit
+
+#todo read: [The Chaldean Oracles: Gnosis of Fire](https://hermeticgoldendawn.org/oracles/)

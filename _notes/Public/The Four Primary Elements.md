@@ -9,11 +9,11 @@ In hermeticisim, and western occult tradition at large, the four elements are fo
 
 Aristotle would expand on this concept later and describe each element as an intersection of two of the four sensible qualities: hot, cold, dry, wet:
 
-| __element __ | __qualities__ | __suit__ |
-|----------|----------|----|
-| fire | hot, dry | wands|
-|air | hot, wet | swords
-|water | cold, wet | cups 
-| earth | dry, cold | pantacles|
+| __element __ | __qualities__ | __suit__ | __domain__ | __animal__ | 
+|----------|----------|----| ----|----|
+| fire | hot, dry | wands | Creativity | lion 
+|air | hot, wet | swords | Logic | man
+|water | cold, wet | cups | Emotion | dragon
+| earth | dry, cold | pantacles| Physical | bull
 
 Important to note that while modern science has moved on from this simple concept of four elements, the idea that all of matter is made of a collection of "root elements" was correct.

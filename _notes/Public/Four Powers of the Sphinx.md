@@ -32,10 +32,17 @@ An interesting rule and one often associated with the vows of secrecy taken with
 
 Very likely this also refers to inner silence. The silencing of the inner monologue.
 
-
+### Connection to the Elements
+These powers can be mapped to [[The Four Primary Elements]] as so:
+- To Know = Air
+- To Will = Earth
+- To Dare = Fire
+- To Keep Silence = Water
 ___
 ### References
 [Thelmapedia](http://www.thelemapedia.org/index.php/Four_Powers_of_the_Sphinx)
 >The **Four Powers of the Sphinx** are Knowledge, Will, Courage, and Silence, and are attributed to the four classical [elements](http://www.thelemapedia.org/index.php/Elements "Elements"), Air, Fire, Water, and Earth (respectively).
 
 *Eliphas Levi, The Ritual and Dogma of Transcendental Magick*
+
+Frater F, [Almost everything I know about the Powers of Sphinx](https://f418.medium.com/almost-everything-i-know-about-the-powers-of-sphinx-77e269062690)
