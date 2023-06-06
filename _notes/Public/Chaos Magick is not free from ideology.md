@@ -17,4 +17,4 @@ needs.
 
 [Dave Heartly](https://www.mail-archive.com/ctrl@listserv.aol.com/msg24906.html)
 
-But this is of course its own sort of belief structure and ideology.
+But this is of course its own sort of belief structure and ideology. It is post modernism: [[Chaos Magic is Post Modernism applied to Magic]]
