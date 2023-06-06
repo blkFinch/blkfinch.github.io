@@ -1,3 +1,9 @@
+---
+title: Negative Hypersigils
+date: 2023-05-26
+feed: show
+tags:
+---
 
 Because of the nature of [[Hypersigils]] , by simply identifying with a character in a work we can begin to engage the [[Narrative-Limbic Feedback Loop]] which will cause us to have sympathetic effects from the work.
 

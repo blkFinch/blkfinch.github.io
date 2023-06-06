@@ -2,7 +2,7 @@
 title: Planes of Existence
 date: 2023-03-09
 feed: hide
-tags:
+tags: #index 
 ---
 
 *from high vibration to dense*

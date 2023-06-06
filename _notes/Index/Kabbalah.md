@@ -2,7 +2,7 @@
 title: Kabbalah
 date: 2023-02-25
 feed: hide
-tags:
+tags: #index 
 ---
 
 ## The Tree of Life
