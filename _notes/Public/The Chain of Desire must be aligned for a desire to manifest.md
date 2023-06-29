@@ -7,7 +7,7 @@ tags:
 #todo *: clean this up* / split into smaller parts
 
 ### The Chain of  Desire
-There exists a *Chain of Desire* between the initial impulse or desire and the physical outcome/experience of that desire. Because [[Action is preceeded by desire]] and [[Desires are reducible into smaller sequences of desire]] we can express any greater desire as a sequence of smaller actions and desires. When magic fails to work properly or manifest fully -- *the problem likely lies within this chain*
+There exists a *Chain of Desire* between the initial impulse or desire and the physical outcome/experience of that desire. Because [[Action is preceded by desire]] and [[Desires are reducible into smaller sequences of desire]] we can express any greater desire as a sequence of smaller actions and desires. When magic fails to work properly or manifest fully -- *the problem likely lies within this chain*
 
 ### When Ritual Fails
 The problem is not with the ritual but rather with the [[Desires]]. For a desire to manifest not only must it be physically possible but it also must be accepted by me. I believe the magic worked and the feeling of frustration is the magic working to bring the result but being blocked either by the confines of physical reality or by my own resistance to the success of the ritual. 

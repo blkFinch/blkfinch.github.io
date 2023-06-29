@@ -6,7 +6,7 @@ tags:
 ---
 
 ### The Principle of Mentalism
-The world is mental. Concsiousness preceeds material. [[Action is preceeded by desire]] . 
+The world is mental. Concsiousness preceeds material. [[Action is preceded by desire]] . 
 >The ALL... May be thought of as an universla, infinite, living mind.
 
 -- The Kybalion

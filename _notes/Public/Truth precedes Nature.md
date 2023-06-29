@@ -13,4 +13,4 @@ In the above example *did the boy tell the truth* ? Intuitively we can see that 
 
 If truth and nature are linked- then it is not possible for truth to be in opposition to nature. If the truth were not connected to nature in some way we would say it was false.
 
-Truth then must precede nature in the same way that [[Action is preceeded by desire]] and how [[Life imitates art]] . That every state of nature has a causal relation to some other state of nature- and we can trace back these states of nature to some pre-natural cause which we can call Truth. 
+Truth then must precede nature in the same way that [[Action is preceded by desire]] and how [[Life imitates art]] . That every state of nature has a causal relation to some other state of nature- and we can trace back these states of nature to some pre-natural cause which we can call Truth. 

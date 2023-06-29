@@ -25,7 +25,7 @@ I also often hear magicians suggesting that incantations and barbarous names wor
 [[The Will]] is a fundamental occult concept. In the context of the Four Powers, it implies that the will is meant to be used. That every action should be a conscious and willed choice.
 
 ## To Dare
-This is the second part of To Will. Once we have chosen and decided to act then we must act. This is the Action that follows intention ([[Action is preceeded by desire]]) 
+This is the second part of To Will. Once we have chosen and decided to act then we must act. This is the Action that follows intention ([[Action is preceded by desire]]) 
 
 ## To Keep Silent
 An interesting rule and one often associated with the vows of secrecy taken within initiatory orders. 

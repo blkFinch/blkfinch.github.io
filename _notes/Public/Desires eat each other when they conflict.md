@@ -7,7 +7,7 @@ tags: #in_progress
 #in_progress 
 <span class="hltxt"> Condense these notes? should these be in *action is preceeded by desire* > </span>
 
-[[Action is preceeded by desire]] Before we *do* anything there is the *urge* to do ( *the idea of reflexive action seems to exist contra to this - explore more* ) . 
+[[Action is preceded by desire]] Before we *do* anything there is the *urge* to do ( *the idea of reflexive action seems to exist contra to this - explore more* ) . 
 
 This is based in the idea that imagination, thought and creativity, preceed action.  When arguing that [[Life imitates art]], Oscar Wilde uses this idea to claim that the creative idea is first expressed in art before it is manifested in action in life.
 

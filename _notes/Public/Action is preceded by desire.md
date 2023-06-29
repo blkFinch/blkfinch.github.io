@@ -1,5 +1,5 @@
 ---
-title: Action is preceeded by desire
+title: Action is preceded by desire
 date: 2022-12-12
 feed: hide
 tags:

@@ -9,7 +9,7 @@ tags: #outline
 [[The Chain of Desire must be aligned for a desire to manifest]]
 
 - [[Conditions for a desire to manifest]]
-- [[Action is preceeded by desire]]
+- [[Action is preceded by desire]]
 - [[Desires]]
 - [[Will expresses itself through desire]]
 - [[Magic is an expression of the will]]

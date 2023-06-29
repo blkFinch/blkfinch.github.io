@@ -6,7 +6,7 @@ tags:
 ---
 [[Desires]] and [[The Will]] are two seperate concepts, although they are often mixed together and used interchangebly (esp by Thelemites). This is not useful. There is clearly a difference because we can desire things which prohibit our own true expression. 
 
-However, because [[Action is preceeded by desire]] it must also be true that for [[The Will]] to be expressed it must generate a desire towards action. But not all desire is preceeded by Will.
+However, because [[Action is preceded by desire]] it must also be true that for [[The Will]] to be expressed it must generate a desire towards action. But not all desire is preceeded by Will.
 
 Will is like an organizing principle that uses Desire as an interface to express itself.
 
