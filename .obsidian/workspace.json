@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "745b821ce5585b37",
+        "id": "7c02909af12909b0",
         "type": "tabs",
         "children": [
           {
-            "id": "6115d81e1f1e8296",
+            "id": "c53e3d8c03ca33c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/The Daughter and Mother.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1495a198beaade5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/The Master Key System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8952d02a6a5ccea2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/Ceremony.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35966a98e203bcf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/Ceremony orients us within a cosmology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53d9d991199ca0bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/Ceremony centers us within the material and temporal universe.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Ceremony centers us within the material and temporal universe.md",
+                "file": "_notes/The Daughter and Mother.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Ceremony centers us within the material and temporal universe.md",
+                "file": "_notes/The Daughter and Mother.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Ceremony centers us within the material and temporal universe.md"
+                "file": "_notes/The Daughter and Mother.md"
               }
             }
           }
