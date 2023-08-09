@@ -4,6 +4,7 @@ date: 2023-01-04
 feed: public
 tags:
 ---
+
 First mentioned by Austin Osman Spare in *The Book Of Pleasure*. While future magicians like Peter Caroll have written about the _death posture_ as if it is a kind of yogic postition. Caroll suggests performing the pose displayed on the Hang Man tarot key until a state of gnosis is reached. Spare seems to speak about the death-posture as more of a idealogical stance or a state of consciousness akin to [[Samadhi]] .
 
 The death posture seems to be a state where the mind no longer identifies with beingness nor non-beingness. 

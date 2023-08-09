@@ -13,3 +13,4 @@ These symbols and their "initiated" meanings become fixed in the adepts imaginat
 This is a benefit of initiation that is hard to capture in solo practice.
 
 #todo *Note on how magic uses mental imagery in the way that hatha yoga uses body positions to cause somatic effects*
+
