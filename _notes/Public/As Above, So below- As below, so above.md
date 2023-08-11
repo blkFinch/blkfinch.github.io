@@ -13,11 +13,13 @@ The microcosm reflects the macrocosm and vice versa. This rule states that there
 
 It also implies that our interior state will be reflected on the world around us. If I am compassionate I will feel as though the world is more compassionate.
 
-It also implies that we can look at microcosmic behaviors and make preditions about the macrocosm.
+It also implies that we can look at microcosmic behaviors and make predictions about the macrocosm.
 
 ### The Scientific Method 
 
-Isaac Newton had his own translation of the Emerald Tablet, and most certainly understood the implications of this principle. It is this principle that allows physicists like Isaac Newton to observe phenomena on earth, and then apply those principles to planets and other large bodies in space.
+[[Isaac Newton]] had his own translation of the Emerald Tablet, and most certainly understood the implications of this principle. It is this principle that allows physicists like Isaac Newton to observe phenomena on earth, and then apply those principles to planets and other large bodies in space.
+- [[Isaac Newton's Law of Universal Gravitation united the heavens with the earth]]
+- [[The Occult Studies of Isaac Newton]]
 
 ___
 ### References

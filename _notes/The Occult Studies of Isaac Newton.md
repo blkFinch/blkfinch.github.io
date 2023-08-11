@@ -1,6 +1,11 @@
+---
+title: The Occult Studies of Isaac Newton
+date: 2023-08-11
+feed: show
+tags: 
+---
 
-
-- Isaac Newton had a fascination with alchemy and wanted to find the philosophers stone and the elixir of life [^1]
+- [[Isaac Newton]] had a fascination with alchemy and wanted to find the philosophers stone and the elixir of life [^1]
 - Isaac Newton was deeply influenced by Rosicrucianism[^2]
 - #todo read newtons entry in [The Alchemy reader](https://mega.nz/folder/jlEwhYyJ#iK4mVC4y5iwk_cr3eIpX4g/file/zp9ExYSI)
 

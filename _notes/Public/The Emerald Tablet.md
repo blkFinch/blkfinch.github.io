@@ -10,7 +10,7 @@ Foundational to [[Alchemy]]
 
 Credited to [[Hermes Trismegistus]] 
 
-A translation of the tablet by Isaac Newton was found among his alchemical papers. Here is his translation of the text:
+A translation of the tablet by [[Isaac Newton]] was found among his alchemical papers. Here is his translation of the text:
 
 >Tis true without lying, certain and most true.  
     That which is below is like that which is above and that which is above is like that which is below  
