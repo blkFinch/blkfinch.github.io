@@ -37,3 +37,9 @@ This is the first known source for the second principle of [[Hermeticism]]
 >That which is below is like that which is above and that which is above is like that which is below  
 
 [[As Above, So below- As below, so above]]
+
+### Foundational To Magic, Alchemy and Hermeticism
+
+>Nothing surpasses and nothing equals as a summary of all the doctrines of the old world the few sentences engraved on a precious stone by Hermes and known as the 'emerald tablet'... it is all of magic on a single page
+
+-- [[Eliphas Levi]], The History of Magic

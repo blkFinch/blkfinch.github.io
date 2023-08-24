@@ -1,7 +1,7 @@
 ---
 title: Limitation leads to freedom
 date: 2023-02-08
-feed: hide
+feed: show
 tags:
 ---
 
@@ -15,8 +15,9 @@ In describing [[The Magic Circle]], Crowley notes that it represents *Limitation
 
 ***By giving up full independence we gain even greater liberty than we could achieve alone***
 
-We can then apply the Second Law of [[Hermeticism]] ([[As Above, So below- As below, so above]]) to theorize that the more of our independence we give up the greater liberty we will attain. Thus the fear of losing oneself entirely in the infinite source of the [[Godhead]] is illusion as that ultimate loss of oneself will only lead to the most ultimate liberty. 
+We can then apply the Second Law of [[Hermeticism]] ([[As Above, So below- As below, so above]]) to theorize that the more of our independence we give up the greater liberty we will attain[^1]. Thus the fear of losing oneself entirely in the infinite source of the [[Godhead]] is illusion as that ultimate loss of oneself will only lead to the most ultimate liberty. 
 ___
+[1] _here I mean to say that we can extrapolate the pattern seen in the microcosm and apply to the macrocosm. If the limitation of a sonnet gives more liberty to be creative- then the limitation of relinquishing self will may lead to a deeper freedom _
 ### References
 
 *12 steps and 12 traditions*, chapter 3
