@@ -5,7 +5,7 @@ feed: hide
 tags:
 ---
 
-Refers to the principle of correspondence from [[The Seven Hermetic Principles]] 
+Refers to the __principle of correspondence__ from [[The Seven Hermetic Principles]] 
 
 This principle was first mentioned on [[The Emerald Tablet]] an ancient hermetic text
 
