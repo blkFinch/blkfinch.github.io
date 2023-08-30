@@ -5,4 +5,4 @@ feed: hide
 tags: #index 
 ---
 
-Initiatory order started by [[Crowley]] . 
+Initiatory order started by [[Aleister Crowley]] . 

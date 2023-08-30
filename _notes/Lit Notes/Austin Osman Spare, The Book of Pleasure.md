@@ -5,6 +5,8 @@ feed: hide
 tags:
 ---
 #litnote 
+by [[Austin Osman Spare]]
+_pub 1913_
 
 This book deals deeply with desire and belief. Spare suggests many practices but his fundamental theories are based around some core ideas:
 

@@ -9,7 +9,7 @@ An open question.
 My perrsonal theory currently is [[Magic is the art of making a true Decision]]
 
 Many magicians have answered in different ways but we can see certain patterns emerge:
-- Crowley, [[Magick is the Science and Art of causing Change to occur in conformity with Will]]
+- [[Aleister Crowley]], [[Magick is the Science and Art of causing Change to occur in conformity with Will]]
 - Spare, [[Magic is but one's natural ability to attract without asking]]
 
 We can see that magic involves some sort of change to the external environment. And that [[Magic is an expression of the will]] .

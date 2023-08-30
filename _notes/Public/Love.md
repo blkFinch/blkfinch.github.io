@@ -5,7 +5,7 @@ feed: hide
 tags:
 ---
 
-What does [[Crowley]] mean when he talks about Love? Do other occults talk about Love? 
+What does [[Aleister Crowley]] mean when he talks about Love? Do other occults talk about Love? 
 Concepts like:
 - Agape
 - eros

@@ -11,7 +11,7 @@ In the OTO this sentiment is repeated as one of the initiated secrets.
 
 Yoga means "Yoke" or to bind-- refering to *binding the mind* so that we can get liberation from mundane life. 
 
-In describing [[The Magic Circle]], Crowley notes that it represents *Limitation* and *affirms the Magicians commitment to the great work*. This limitation and oath making of the magician are indeed acts that grant him his freedom.
+In describing [[The Magic Circle]], [[Aleister Crowley]] notes that it represents *Limitation* and *affirms the Magicians commitment to the great work*. This limitation and oath making of the magician are indeed acts that grant him his freedom.
 
 ***By giving up full independence we gain even greater liberty than we could achieve alone***
 

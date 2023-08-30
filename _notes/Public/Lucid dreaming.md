@@ -8,7 +8,7 @@ tags:
 Becoming conscious of the dreamstate from within the dream. 
 
 *related: [[The difference between Lucid Dreaming and Shamanic Dreaming]]
-
+[[Dreams]]
 Lucid Dreaming Induction techniques:
 
 - [[WILD method]]

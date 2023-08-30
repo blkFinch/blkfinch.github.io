@@ -6,7 +6,7 @@ tags:
 ---
 
 
-#litnote 
+#litnote #people 
 
 2020, [https://www.aidanwachter.com/books](https://www.aidanwachter.com/books)
 

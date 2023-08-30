@@ -1,0 +1,6 @@
+- `The Thought:`
+	- `tldr`
+	- `rough`
+	- `refined`
+- `Relevant Context`
+- `What led me here`

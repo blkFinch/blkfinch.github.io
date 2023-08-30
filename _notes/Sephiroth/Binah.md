@@ -4,7 +4,7 @@ date: 2023-02-25
 feed: hide
 tags:
 ---
-
+one of the ten [[Sephirot]]
 _Understanding_
 
 - The divine feminine

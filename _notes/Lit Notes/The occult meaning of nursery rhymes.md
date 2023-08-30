@@ -34,4 +34,4 @@ Isis sought them in every corner of the Universe, and she found all except his s
 not found until quite recently (vide Fuller, The Star in the West).
 >
 
-Crowley, Book 4
+[[Aleister Crowley]], Book 4

@@ -13,7 +13,7 @@ tags:
 [[Love]]
 ___
 ### References
-_[[Crowley]], Liber CL_
+_[[Aleister Crowley]], Liber CL_
 > Here is the method of Love in Meditation. **Let the Aspirant first practice and then discipline himself in the Art of fixing the attention upon any thing whatsoever at will, without permitting the least imaginable distraction**.
 > 
 > **Let him also practice the art of the Analysis of Ideas, and that of refusing to allow the mind its natural reaction to them, pleasant or unpleasant, thus fixing himself in Simplicity and Indifference**. These things being achieved in their ripe season, **be it known to you that all ideas will have become equal to your apprehension, since each is simple and each indifferent: any one of them remaining in the mind at Will without stirring or striving**, or tending to pass on to any other. But each idea will possess one special quality common to all: this, that **no one of any of them is The Self, inasmuch as it is perceived by The Self as Something Opposite**.

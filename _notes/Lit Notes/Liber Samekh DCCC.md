@@ -5,7 +5,7 @@ feed: hide
 tags:
 ---
 ### *Theurgia Goetia Summa Congressus Cum Daemone*
-[[Crowley]]'s ritual for summoning the holy guardian angel
+[[Aleister Crowley]]'s ritual for summoning the holy guardian angel
 First appeared in Book 4
 
 ___

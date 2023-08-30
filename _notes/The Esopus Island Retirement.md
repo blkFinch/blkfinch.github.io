@@ -10,3 +10,8 @@ After ending affair with Roddie Minor, Crowley decided to embark on retirement t
 - Crowley painted on the cliffs of the isalnd which attracted vistors who fed him
 - Crowley meditates on past lives through the backwards memory technique
 - Translates the tao de ching
+
+___
+### References
+
+[[Sutin, Do What Thou Wilt]]
