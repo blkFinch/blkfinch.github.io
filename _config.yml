@@ -110,9 +110,8 @@ defaults:
 # their entries' file path in the `include:` list.
 #
 exclude:
-  - _notes/000 Inbox
-  - _notes/200 Private
-  - _notes/300 Templates
+  - _notes/inbox
+  - _notes/private
   - _notes/templates/*
 #   - .sass-cache/
 #   - .jekyll-cache/

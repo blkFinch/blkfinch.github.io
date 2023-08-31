@@ -1,6 +1,6 @@
 ---
 title: {{title}}
 date: {{date}}
-feed: show
+feed: hide
 tags:
 ---
