@@ -27,12 +27,12 @@ Bluefluke connects the [[Eight-circuit model of consciousness]] to the sephira t
 |--------|----------|
 |Survival, touch | [[Malkuth]]|
 |Territory, Dom/ Sub, Emotion| [[Yesod]]|
-| Curiosity, tools, conceptual framework | [[hod]], [[netzach]]|
+| Curiosity, tools, conceptual framework | [[Hod]], [[Netzach]]|
 |Social roles, empathy, the individual | [[Geburah]]|
 | Logic, math, linguistic use | [[Chessed]]
 |abstract thought, mental visualization, astral | [[Binah]] 
-| Time perception, foresight, planning | [[chokmah]]
-| Illumination, collective networking | [[kether]]
+| Time perception, foresight, planning | [[Chokmah]]
+| Illumination, collective networking | [[Kether]]
 
 I am not so sure these correspondences resonate with me . For example I would consider *logic, math, linguistic use* to be more in the sphere of hod. Perhaps these can all map to the lower spheres leading up to tipareth, as above tipareth we enter into the colelctive consciousness. 
 

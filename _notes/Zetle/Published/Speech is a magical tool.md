@@ -14,7 +14,7 @@ Thus by creating works of speech- the magician then influences life, [[Life imit
 
 ___
 ### References
-[[Lit Notes/Swami Vivekananda, Raja Yoga]]
+[[Swami Vivekananda, Raja Yoga]]
 >*36. By the establishment of truthfulness the Yogi gets the power of attaining for himself and others the fruits of work without the works.*
 
 [[Aidan Wachter, Weaving Fate]]

@@ -8,7 +8,7 @@ A recipe for Abramelin oil. This is the same recipe found in Mathers translation
 
 ### Recipe
 - olive oil
-- myrrh ([[binah]])
+- myrrh ([[Binah]])
 - cinnamon ([[Tipareth]])
 - Galangal ([[Kether]] and [[Malkuth]])
 

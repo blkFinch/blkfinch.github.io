@@ -111,7 +111,8 @@ defaults:
 #
 exclude:
   - _notes/inbox
-  - _notes/private
+  - _notes/Private
+  - _notes/'Magic Record'
   - _notes/templates/*
 #   - .sass-cache/
 #   - .jekyll-cache/
