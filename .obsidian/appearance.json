@@ -1,3 +1,14 @@
 {
-  "accentColor": ""
+  "accentColor": "#6da456",
+  "theme": "obsidian",
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "img",
+    "hide-site-folders",
+    "obsidian"
+  ],
+  "textFontFamily": "Inter",
+  "baseFontSize": 15,
+  "interfaceFontFamily": "Segoe UI",
+  "translucency": false
 }
