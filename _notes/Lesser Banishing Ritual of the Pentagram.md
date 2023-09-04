@@ -2,7 +2,9 @@
 title: Lesser Banishing Ritual of the Pentagram
 date: 2023-03-03
 feed: hide
-tags:
+tags: []
+aliases:
+  - LBRP
 ---
 
 1. Touching the forehead, say "Ateh (Unto Thee)."

@@ -23,5 +23,10 @@
   "aura@@aura-folder-icons": true,
   "aura@@aura-rainbow-folders": true,
   "aura@@font-bundle-select": "serif-font",
-  "aura@@fonts-source": "custom-font"
+  "aura@@fonts-source": "custom-font",
+  "aura@@cpt-accent": "var(--cpt-aura)",
+  "aura@@aura-colorshemes-dark": "aura-colorschemes-dark-kanagawa",
+  "aura@@aura-colorful-frame": false,
+  "aura@@aura-layout-select": "aura-default-layout",
+  "aura@@aura-disable-borders": true
 }

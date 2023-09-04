@@ -3,6 +3,7 @@ title: We should understand the meaning of ceremonial actions
 date: 2023-08-30
 feed: hide
 tags:
+  - todo
 ---
 
 - `The Thought:` We should understand the meaning of ceremonial actions

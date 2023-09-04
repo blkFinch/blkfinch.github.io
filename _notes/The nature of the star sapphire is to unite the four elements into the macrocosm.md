@@ -5,7 +5,7 @@ feed: hide
 tags:
 ---
 
-If the nature of the [[Lesser Banishing Ritual of the Pentagram]] is to set the four elements in their place
+If the nature of the [[Lesser Banishing Ritual of the Pentagram|LBRP]] is to set the four elements in their place
 
 The nature of the SS is to unify the four elements into one substance
 

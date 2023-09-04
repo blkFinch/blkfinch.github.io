@@ -2,7 +2,9 @@
 title: Rituals
 date: 2023-02-08
 feed: show
-tags: 
+tags: []
+aliases:
+  - ritual
 ---
 #index
 

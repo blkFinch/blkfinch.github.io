@@ -4,7 +4,7 @@ date: 2023-02-15
 feed: show
 tags:
 ---
-All prayer should include the following when written for ritual purposes
+All prayer should include the following when written for [[Rituals|ritual]] purposes
 
 __Adoration__
 State the greatness of the deity you are beseeching. The key is to instill _Awe_ 

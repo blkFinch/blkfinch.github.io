@@ -1,14 +1,14 @@
 {
   "accentColor": "#6da456",
-  "theme": "obsidian",
-  "cssTheme": "",
+  "theme": "moonstone",
+  "cssTheme": "Typora-Vue",
   "enabledCssSnippets": [
     "img",
     "hide-site-folders",
-    "obsidian"
+    "folder-color"
   ],
-  "textFontFamily": "Inter",
+  "textFontFamily": "Tahoma,Bahnschrift,Inter,Consolas",
   "baseFontSize": 15,
-  "interfaceFontFamily": "Segoe UI",
+  "interfaceFontFamily": "Archivo,Segoe UI",
   "translucency": false
 }

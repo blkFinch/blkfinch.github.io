@@ -5,7 +5,7 @@ feed: show
 tags:
 ---
 
-This is a simplified version of the scrying ritual put forth by [[David Shoemaker]] in his book, *The Winds of Wisdom* :
+This is a simplified version of the scrying [[Rituals|ritual]] put forth by [[David Shoemaker]] in his book, *The Winds of Wisdom* :
 - Begin with a [[Banishing]] and a general [[Invocation]]
 - Read the [[Second Enochian Call]] 
 - Then recite the [[Nineteenth Enochian Call]]

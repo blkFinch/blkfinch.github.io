@@ -17,7 +17,7 @@ Once successful move on
 ## Technique A
 
 1.  Sit in position that is relaxing but not conducive to sleep
-2.  In spirit vision perform the LBRP - imagine yourself robed and holding dagger
+2.  In spirit vision perform the - imagine yourself robed and holding dagger
 3.  perform middle pillar
 4.  visualize vayu in throat
 5.  vibrate god name YHVH Elohim

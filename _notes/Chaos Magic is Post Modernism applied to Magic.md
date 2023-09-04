@@ -5,7 +5,7 @@ feed: show
 tags:
 ---
 
-In some sense we can look at the Chaos Magic movement as being perfectly in step with post modern sensibilities of the time. Chaos Magic existed in opposition to the old, "stodgy", systems of magic that seemed to be so reliant on tradition and formal ritual. 
+In some sense we can look at the Chaos Magic movement as being perfectly in step with post modern sensibilities of the time. Chaos Magic existed in opposition to the old, "stodgy", systems of magic that seemed to be so reliant on tradition and formal [[Rituals|ritual]]. 
 Chaos Magic opposes these old structures of magical thought by saying-
 
 _"The symbol is not what matters but rather our relationship to it"_

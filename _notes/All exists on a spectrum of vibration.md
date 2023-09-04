@@ -11,7 +11,7 @@ We can group functions and forms at various rates of vibrations as existing with
 
 For example: in Platonism, there is the concept of the Platonic Ideal (*i.e. There exists many chairs but there is only one Ideal Chair which is the concept of a chair. It is how we recognize a chair we have never seen before as being a chair- because it is an emenation of the concept of "Chair"*). These Platonic Ideals can be thought of as existing in a Plane known as the [[The Plane of Archetypes]] . 
 
-### Seperation of Interaction
+### Separation of Interaction
 
 While there is not actually a hard division between these Planes, there is a seperation of interaction between these various ranges of vibrations, because __only vibrations of similar rates can interact with each other__. But there is some cross over as the lowest vibrations of the Astral Plane can affect the highest vibrations of the physical plane which can then act upon the lower vibrations of the physical plane
 

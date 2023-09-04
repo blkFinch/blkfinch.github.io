@@ -1,9 +1,10 @@
 ---
-title: {{title}}
-date: 2023-08-31
+title: python script to combine md
+date: 2023-09-04
 feed: hide
-tags:
+tags: []
 ---
+
 #### example code
 ```python
 import os
