@@ -16,3 +16,6 @@ tags: index
 - [[Goetia]]
 - [[Magic is still necessary]]
 - [[The central operation of Magic is the alignment of the magician with their true will]]
+- [[Rituals]]
+- [[Kabbalah]]
+- 

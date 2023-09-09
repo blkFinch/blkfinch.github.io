@@ -1,17 +1,52 @@
 {
   "collapse-filter": true,
-  "search": "-tag:#magic_record  ",
+  "search": "-path:Magic_Record -path:pages -path:_posts  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#magic_record",
       "color": {
         "a": 1,
         "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:templates  ",
+      "color": {
+        "a": 1,
+        "rgb": 4210752
+      }
+    },
+    {
+      "query": "tag:#index  ",
+      "color": {
+        "a": 1,
+        "rgb": 5407200
+      }
+    },
+    {
+      "query": "tag:#todo  ",
+      "color": {
+        "a": 1,
+        "rgb": 13831437
+      }
+    },
+    {
+      "query": "path:\"_notes/Lit Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12811762
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
       }
     }
   ],
@@ -20,11 +55,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "repelStrength": 13.6458333333333,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.3628873693012164,
+  "linkDistance": 255,
+  "scale": 0.1316872427983561,
   "close": true
 }

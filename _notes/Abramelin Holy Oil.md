@@ -2,7 +2,7 @@
 title: Abramelin Holy Oil
 date: 2022-12-12
 feed: show
-tags: #magic 
+tags: []
 ---
 A recipe for Abramelin oil. This is the same recipe found in Mathers translation of  [[Abramelin]]'s ' *The Magic of Abramelin* but [[Aleister Crowley]] has added correspondences to various  sephira 
 
@@ -19,5 +19,6 @@ ___
 >
 
 [[Crowley, Book Four ]]
-[[test]]
 
+--- 
+related: [[Magic]]

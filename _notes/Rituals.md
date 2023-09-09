@@ -15,5 +15,5 @@ aliases:
 - [[Creating an Internal Conscious Being]]
 - [[Star Ruby]]
 - [[Lesser Banishing Ritual of the Pentagram]]
-- 
+- [[Star Sapphire]]
 

@@ -1,7 +1,6 @@
 ---
 date:
   "{ date }": 
-"": 
 feed: hide
 tags:
   - idea

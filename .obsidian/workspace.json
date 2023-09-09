@@ -8,18 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5a1410a5e23bc6ad",
+            "id": "3b9916d382983ab3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/All exists on a spectrum of vibration.md",
+                "file": "inbox/Polyphasic Sleep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6732dde63061d04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/ACTS elements of prayer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afdcf15f206b5b0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/How to Prepare for Polyphasic Sleep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "640cc7f11caa50fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/source note.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/All exists on a spectrum of vibration.md"
+                "file": "_notes/source note.md"
               }
             }
           },
@@ -95,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/All exists on a spectrum of vibration.md",
+                "file": "_notes/source note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/All exists on a spectrum of vibration.md",
+                "file": "_notes/source note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/All exists on a spectrum of vibration.md"
+                "file": "_notes/source note.md"
               }
             }
           },
@@ -149,8 +186,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,34 +203,34 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "5a1410a5e23bc6ad",
+  "active": "2e32a06048f088fd",
   "lastOpenFiles": [
-    "Magic_Record/_readme.md",
-    "_notes/Steps for creating a hypersigil.md",
-    "_notes/Rituals.md",
-    "_notes/Lit Notes/Liber Samekh DCCC.md",
-    "_notes/Four Powers of the Sphinx.md",
-    "_notes/Creating an Internal Conscious Being.md",
-    "_notes/Chaos Magic is Post Modernism applied to Magic.md",
-    "_notes/Brief invocation of the HGA.md",
-    "_notes/ACTS elements of prayer.md",
-    "_notes/A method of Scrying the Enochian Aethyrs.md",
-    "Magic_Record/probationer/combined1.md",
-    "_notes/Lit Notes/Crowley, Book Four.md",
-    "_notes/Ritual for invocation of the Holy Guardian Angel.md",
-    "_notes/Lit Notes/Aleister Crowley.md",
-    "_notes/N.md",
-    "_notes/mind palace.md",
-    "_notes/We should understand the meaning of ceremonial actions.md",
-    "_notes/In group ceremony, a formal structure can synchronize all participants.md",
-    "_notes/Incarnate beings are not fixed in one plane of existence.md",
-    "_notes/Imagination is the yoke that binds our will to the external world.md",
-    "_notes/Lit Notes/Lama Yeshe.md",
+    "workflow.md",
+    "test.md",
+    "My Polyphasic Plan.md",
+    "inbox/How to Prepare for Polyphasic Sleep.md",
+    "inbox/Prefer Simplicity.md",
+    "How to Process Information into Evergreen Notes.md",
+    "_notes/Lit Note.md",
     "_posts/2020-03-01-how-to.md",
-    "inbox/Obsidian's Role in my PKMS.md",
-    "_notes/Lit Notes/Austin Osman Spare, The Book of Pleasure.md",
-    "_notes/Index/Sephirot.md",
-    "_notes/Index/Tarot.md",
+    "Note Taking.md",
+    "pages/notes.md",
+    "inbox/Sleep Cycles.md",
+    "inbox/Polyphasic Sleep.md",
+    "_notes/Lit Notes/Aidan Wachter, Weaving Fate.md",
+    "_notes/The Slipbox note taking method.md",
+    "_notes/The Zettelkasten is a magical object.md",
+    "_notes/source note.md",
+    "inbox/My PKMS overview.md",
+    "_notes/Abramelin Holy Oil.md",
+    "templates/_fm_note.md",
+    "_notes/Action is preceded by desire.md",
+    "_notes/ACTS elements of prayer.md",
+    "templates/Note.md",
+    "README.md",
+    "_notes/Abrahadabra.md",
+    "Private/Daily Notes/2023-09-06.md",
+    "templates/Idea.md",
     "Magic_Record/probationer",
     "_notes/Sephiroth",
     "_notes/Zettle/Published",

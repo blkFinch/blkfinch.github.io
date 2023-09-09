@@ -1,11 +1,13 @@
 {
   "accentColor": "#6da456",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "cssTheme": "Typora-Vue",
   "enabledCssSnippets": [
     "img",
     "hide-site-folders",
-    "folder-color"
+    "colored-header",
+    "folder-color",
+    "obsidian"
   ],
   "textFontFamily": "Tahoma,Bahnschrift,Inter,Consolas",
   "baseFontSize": 15,

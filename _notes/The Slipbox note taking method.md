@@ -2,7 +2,9 @@
 title: The Slipbox note taking method
 date: 2022-12-09
 feed: show
-Tags: #productivity, #zettelkasten
+tags: []
+aliases:
+  - zettlekasten
 ---
 The zettlekasten (slip box) is a method of note taking designed by [[Niklas Luhman]] in the 1950s and 60s. While his system was done by hand on index cards using a linking system to connect cards to other cards, many contemporary scholars and note takers have adapted his system to digital ecosystems- which allow for easy and flexible linking and search capabilities. 
 
