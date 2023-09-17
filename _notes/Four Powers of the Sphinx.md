@@ -9,7 +9,7 @@ The four powers to be mastered in order to not only do magic but to be a master 
 - Knowledge (air), to know, *vide*
 - Will (Fire), to will, *vole*
 - Courage (Water), to dare, *aude*
-- Silence (Earth), to remain silent, *tace*
+- [[Silence]] (Earth), to remain silent, *tace*
 
 Seemingly correlates to [[The Four Primary Elements]]. Very likely that anything that comes in fours in western occult tradition will relate somehow to the elements. 
 
@@ -28,9 +28,7 @@ I also often hear magicians suggesting that incantations and barbarous names wor
 This is the second part of To Will. Once we have chosen and decided to act then we must act. This is the Action that follows intention ([[Action is preceded by desire]]) 
 
 ## To Keep Silent
-An interesting rule and one often associated with the vows of secrecy taken within initiatory orders. 
-
-Very likely this also refers to inner silence. The silencing of the inner monologue.
+[[Silence]]
 
 ### Connection to the Elements
 These powers can be mapped to [[The Four Primary Elements]] as so:

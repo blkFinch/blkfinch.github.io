@@ -12,5 +12,5 @@ tags:
 - The Mental Plane
 - The Astral Plane
 - The Etheric Plane
-- The Physical
+-  [[The Material Plane]]
 - The Sub Physical (qliphoth)

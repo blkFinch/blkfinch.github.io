@@ -7,7 +7,7 @@ tags:
 
 An American esoteric movement that has inspired many authors, and gurus. 
 
-From older books like [[The Master Key]] , to the success books of the 70s and 80s like _The Seven Habits of Highly Effective People_ -- the new thought movement has been behind many of the most successful thought leaders.
+From older books like [[The Master Key System|The Master Key]] , to the success books of the 70s and 80s like _The Seven Habits of Highly Effective People_ -- the new thought movement has been behind many of the most successful thought leaders.
 
 __It takes Hermetic beliefs and cosmology and applies them to making money and success__
 

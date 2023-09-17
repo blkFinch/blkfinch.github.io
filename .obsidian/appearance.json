@@ -9,7 +9,7 @@
     "folder-color",
     "obsidian"
   ],
-  "textFontFamily": "Tahoma,Bahnschrift,Inter,Consolas",
+  "textFontFamily": "Tahoma,Inter",
   "baseFontSize": 15,
   "interfaceFontFamily": "Archivo,Segoe UI",
   "translucency": false

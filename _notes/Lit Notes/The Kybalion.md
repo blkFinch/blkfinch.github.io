@@ -7,5 +7,5 @@ tags:
 
 By *Three Initiates*
 
-(*likely *William W. Atikinson* so sayeth wikipedia (although he does seem a likely candidate judging from his other book "The Four Arcane Truths"))
+(*likely *[[William W. Atikinson]]* so sayeth wikipedia (although he does seem a likely candidate judging from his other book "The Four Arcane Truths"))
 

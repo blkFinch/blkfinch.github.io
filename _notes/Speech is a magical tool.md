@@ -10,7 +10,7 @@ Many magical and mystical texts put great weight behind telling the truth. Truth
 
 Thus by creating works of speech- the magician then influences life, [[Life imitates art]] 
 
-[[Four Powers of the Sphinx]] - Silence: is the mastery of this power of speech
+[[Four Powers of the Sphinx]] - [[Silence]]: is the mastery of this power of speech
 
 ___
 ### References

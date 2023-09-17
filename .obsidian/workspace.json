@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/Polyphasic Sleep.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6732dde63061d04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/ACTS elements of prayer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afdcf15f206b5b0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/How to Prepare for Polyphasic Sleep.md",
+                "file": "_notes/Index/There are three steps to every act of will.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/source note.md",
+                "file": "inbox/The slip box power as idea generator depends on the high quality inputs. Problem with ai output is low quality input.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "master key",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -122,7 +97,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_notes/source note.md"
+                "file": "_notes/Index/There are three steps to every act of will.md"
               }
             }
           },
@@ -132,13 +107,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/source note.md",
+                "file": "_notes/Index/There are three steps to every act of will.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -149,9 +124,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/source note.md",
+                "file": "_notes/Index/There are three steps to every act of will.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -172,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/source note.md"
+                "file": "_notes/Index/There are three steps to every act of will.md"
               }
             }
           },
@@ -186,7 +161,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -205,32 +181,33 @@
   },
   "active": "2e32a06048f088fd",
   "lastOpenFiles": [
-    "workflow.md",
-    "test.md",
-    "My Polyphasic Plan.md",
-    "inbox/How to Prepare for Polyphasic Sleep.md",
-    "inbox/Prefer Simplicity.md",
+    "_notes/The Three steps correspond to the powers of the sphinx.md",
+    "_notes/The Master Key System.md",
+    "_notes/The Master Key references a three step process.md",
+    "_notes/Lit Notes/The Heart of Dominance, Anton Fulmen.md",
+    "_notes/The Harem Mandala (Succubus School).md",
+    "_notes/The conscious mind and subconscious mind communicate through the vagus nerve.md",
+    "_notes/New Thought.md",
+    "_notes/Health, wealth, and love are the only things we need.md",
+    "Magic_Record/probationer/combined2_june_to_aug.md",
+    "_notes/Lit Notes/The Master Key.md",
+    "Scorpio.md",
     "How to Process Information into Evergreen Notes.md",
-    "_notes/Lit Note.md",
-    "_posts/2020-03-01-how-to.md",
-    "Note Taking.md",
-    "pages/notes.md",
-    "inbox/Sleep Cycles.md",
-    "inbox/Polyphasic Sleep.md",
-    "_notes/Lit Notes/Aidan Wachter, Weaving Fate.md",
-    "_notes/The Slipbox note taking method.md",
-    "_notes/The Zettelkasten is a magical object.md",
-    "_notes/source note.md",
-    "inbox/My PKMS overview.md",
-    "_notes/Abramelin Holy Oil.md",
-    "templates/_fm_note.md",
-    "_notes/Action is preceded by desire.md",
-    "_notes/ACTS elements of prayer.md",
-    "templates/Note.md",
-    "README.md",
-    "_notes/Abrahadabra.md",
-    "Private/Daily Notes/2023-09-06.md",
-    "templates/Idea.md",
+    "workflow.md",
+    "_notes/Lit Notes/William W. Atikinson.md",
+    "Private/Daily Notes/2023-09-13.md",
+    "Private/Daily Notes/2023-09-15.md",
+    "Private/Daily Notes/2023-09-14.md",
+    "Private/Daily Notes/2023-09-11.md",
+    "_notes/Lit Notes/Ararita, Elaborations on Star Sapphire.md",
+    "inbox/Liber Stella Rubae.md",
+    "inbox/Reverse Entropy.md",
+    "inbox/Causal Set Theory.md",
+    "inbox/North and South Nodes.md",
+    "_notes/Star Sapphire.md",
+    "_notes/Ruach.md",
+    "_notes/N.md",
+    "Private/Weekly",
     "Magic_Record/probationer",
     "_notes/Sephiroth",
     "_notes/Zettle/Published",
@@ -242,7 +219,6 @@
     "Magic_Record/aug31_export/MR-47 -- July 16, 2023 LBRP, Enochian 8c3276173d6a472dbe1765f92b08037b/20230717_071616.jpg",
     "Magic_Record/aug31_export/MR-47 -- July 16, 2023 LBRP, Enochian 8c3276173d6a472dbe1765f92b08037b",
     "Magic_Record/combiner.py",
-    "Magic_Record/aug31_export",
     "Magic Record/aug31_export/MR-47 -- July 16, 2023 LBRP, Enochian 8c3276173d6a472dbe1765f92b08037b/20230717_071616.jpg",
     "Magic Record/aug31_export/MR-47 -- July 16, 2023 LBRP, Enochian 8c3276173d6a472dbe1765f92b08037b/20230717_071612.jpg",
     "Magic Record/Magical Record notion export aug 31/MR-47 -- July 16, 2023 LBRP, Enochian 8c3276173d6a472dbe1765f92b08037b/20230717_071612.jpg",

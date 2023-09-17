@@ -31,3 +31,5 @@ ___
 ### References
 
 _LIBER XXXVI: THE STAR SAPPHIRE_ , publication in class D, [sacred-texts.com](https://sacred-texts.com/oto/lib36.htm), taken sept. 4 2023
+
+[[Ararita, Elaborations on Star Sapphire]]

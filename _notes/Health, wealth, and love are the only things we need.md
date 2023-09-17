@@ -5,7 +5,7 @@ feed: show
 tags:
 ---
 
-According to [[The Master Key]] there are only three conditions which a person need manifest in their life to be truly content: Health, Wealth and Happiness.
+According to [[The Master Key System|The Master Key]] there are only three conditions which a person need manifest in their life to be truly content: Health, Wealth and Happiness.
 
 It gives suggestions on the proper tools to use to create these conditions:
 

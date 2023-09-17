@@ -4,7 +4,7 @@ date: 2023-08-26
 feed: show
 tags:
 ---
-According to [[The Master Key]] to manifest our will into the world we must complete three steps:
+According to [[The Master Key System|The Master Key]] to manifest our will into the world we must complete three steps:
 
 1.  Have an earnest desire
 2. Develop a confident expectation

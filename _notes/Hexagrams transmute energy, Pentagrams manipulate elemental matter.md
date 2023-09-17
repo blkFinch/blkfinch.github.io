@@ -2,7 +2,7 @@
 title: Hexagrams transmute energy, Pentagrams manipulate elemental matter
 date: 2023-02-06
 feed: show
-tags:
+tags: #lit 
 ---
 
 The pentagram is symbolic of the microcosm, and the hexagram symbolic of the macrocosm.
