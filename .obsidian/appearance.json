@@ -1,16 +1,3 @@
 {
-  "accentColor": "#6da456",
-  "theme": "obsidian",
-  "cssTheme": "Typora-Vue",
-  "enabledCssSnippets": [
-    "img",
-    "hide-site-folders",
-    "colored-header",
-    "folder-color",
-    "obsidian"
-  ],
-  "textFontFamily": "Tahoma,Inter",
-  "baseFontSize": 15,
-  "interfaceFontFamily": "Archivo,Segoe UI",
-  "translucency": false
+  "accentColor": ""
 }

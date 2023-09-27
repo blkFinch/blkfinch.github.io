@@ -15,6 +15,7 @@ tags:
 
 Sexual immortality
 
+tag: [[Letter]]
 ___
 ### References
 [[Aleister Crowley]], The Vision and the Voice

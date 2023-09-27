@@ -1,3 +1,0 @@
-
-by [[Aleister Crowley]] 
-#todo 

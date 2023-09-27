@@ -6,6 +6,8 @@ tags:
 ---
 #in_progress 
 
+[[The First Manifestation of Thought is Language]]
+
 Many magical and mystical texts put great weight behind telling the truth. Truthfulness and truthful speech are core tenants of buddhism and many yogic philosophies. But because [[Truth precedes Nature]] there becomes a duality to the practice of truthfulness where the magician can tap into the Truth that lies beyond nature and then by speaking- bring it into existence. 
 
 Thus by creating works of speech- the magician then influences life, [[Life imitates art]] 

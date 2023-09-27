@@ -8,6 +8,8 @@ Invocation is the act of "calling in" a spirit or deity. This is different than 
 
 Under some modalities this is another form of servitor creation that creates an aditional "Ego" that attaches to your own
 
+-> [[Formal Invocation Style for Deity Worship]]
+
 ___
 ### References
 [Invocation to Apollo](https://mythologyisforhipsters.weebly.com/invocations-to-apollo.html)

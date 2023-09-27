@@ -1,34 +1,18 @@
 {
   "main": {
-    "id": "17854d6cddb7fa86",
+    "id": "799e906fc47f9f95",
     "type": "split",
     "children": [
       {
-        "id": "20161cb8b43fd23e",
+        "id": "80e65e57c543208a",
         "type": "tabs",
         "children": [
           {
-            "id": "3b9916d382983ab3",
+            "id": "2966112585f64128",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/Index/There are three steps to every act of will.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "640cc7f11caa50fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/The slip box power as idea generator depends on the high quality inputs. Problem with ai output is low quality input.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -37,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "057d2d6dd81de563",
+    "id": "9d3b0a47bd57a320",
     "type": "split",
     "children": [
       {
-        "id": "702c1e5342991558",
+        "id": "6eb1faffa8b4e29f",
         "type": "tabs",
         "children": [
           {
-            "id": "2e32a06048f088fd",
+            "id": "fbad7304868aeffa",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,22 +39,22 @@
             }
           },
           {
-            "id": "f82227b0027c8960",
+            "id": "d4f1c50af9368349",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "master key",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "d133880ce95a8029",
+            "id": "10133dc95efc4f73",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,57 +65,45 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "4b1964df16458c2d",
+    "id": "bd51957f3aa17252",
     "type": "split",
     "children": [
       {
-        "id": "bdf4aa14c997d788",
+        "id": "14a8ecd85f088435",
         "type": "tabs",
         "children": [
           {
-            "id": "913de19916c20b55",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "_notes/Index/There are three steps to every act of will.md"
-              }
-            }
-          },
-          {
-            "id": "8f29951cfb0951e9",
+            "id": "a893893fa324475f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Index/There are three steps to every act of will.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a78e9b3c56ef32d1",
+            "id": "0839d163b0a93e1e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Index/There are three steps to every act of will.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d787513501378871",
+            "id": "01fdded2fe6bdd6d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,31 +114,19 @@
             }
           },
           {
-            "id": "a045596c72565fe8",
+            "id": "81ecd1fd632eb955",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_notes/Index/There are three steps to every act of will.md"
-              }
-            }
-          },
-          {
-            "id": "fdf900e6b122ea4d",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,53 +135,9 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "2e32a06048f088fd",
-  "lastOpenFiles": [
-    "_notes/The Three steps correspond to the powers of the sphinx.md",
-    "_notes/The Master Key System.md",
-    "_notes/The Master Key references a three step process.md",
-    "_notes/Lit Notes/The Heart of Dominance, Anton Fulmen.md",
-    "_notes/The Harem Mandala (Succubus School).md",
-    "_notes/The conscious mind and subconscious mind communicate through the vagus nerve.md",
-    "_notes/New Thought.md",
-    "_notes/Health, wealth, and love are the only things we need.md",
-    "Magic_Record/probationer/combined2_june_to_aug.md",
-    "_notes/Lit Notes/The Master Key.md",
-    "Scorpio.md",
-    "How to Process Information into Evergreen Notes.md",
-    "workflow.md",
-    "_notes/Lit Notes/William W. Atikinson.md",
-    "Private/Daily Notes/2023-09-13.md",
-    "Private/Daily Notes/2023-09-15.md",
-    "Private/Daily Notes/2023-09-14.md",
-    "Private/Daily Notes/2023-09-11.md",
-    "_notes/Lit Notes/Ararita, Elaborations on Star Sapphire.md",
-    "inbox/Liber Stella Rubae.md",
-    "inbox/Reverse Entropy.md",
-    "inbox/Causal Set Theory.md",
-    "inbox/North and South Nodes.md",
-    "_notes/Star Sapphire.md",
-    "_notes/Ruach.md",
-    "_notes/N.md",
-    "Private/Weekly",
-    "Magic_Record/probationer",
-    "_notes/Sephiroth",
-    "_notes/Zettle/Published",
-    "vault/Notes",
-    "_notes/Lit Notes",
-    "_notes/Index",
-    "_notes/Zettle",
-    "Magic_Record/aug31_export/MR-47 -- July 16, 2023 LBRP, Enochian 8c3276173d6a472dbe1765f92b08037b/20230717_071612.jpg",
-    "Magic_Record/aug31_export/MR-47 -- July 16, 2023 LBRP, Enochian 8c3276173d6a472dbe1765f92b08037b/20230717_071616.jpg",
-    "Magic_Record/aug31_export/MR-47 -- July 16, 2023 LBRP, Enochian 8c3276173d6a472dbe1765f92b08037b",
-    "Magic_Record/combiner.py",
-    "Magic Record/aug31_export/MR-47 -- July 16, 2023 LBRP, Enochian 8c3276173d6a472dbe1765f92b08037b/20230717_071616.jpg",
-    "Magic Record/aug31_export/MR-47 -- July 16, 2023 LBRP, Enochian 8c3276173d6a472dbe1765f92b08037b/20230717_071612.jpg",
-    "Magic Record/Magical Record notion export aug 31/MR-47 -- July 16, 2023 LBRP, Enochian 8c3276173d6a472dbe1765f92b08037b/20230717_071612.jpg",
-    "Magic Record/Magical Record notion export aug 31/MR-47 -- July 16, 2023 LBRP, Enochian 8c3276173d6a472dbe1765f92b08037b/20230717_071616.jpg"
-  ]
+  "active": "2966112585f64128",
+  "lastOpenFiles": []
 }
