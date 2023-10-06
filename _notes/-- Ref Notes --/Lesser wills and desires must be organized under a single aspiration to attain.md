@@ -2,7 +2,8 @@
 title: Lesser wills and desires must be organized under a single aspiration to attain
 date: 2022-12-12
 feed: show
-tags: #magic 
+tags:
+  - litnote
 ---
 
 most people have scattered and conflicting [[Desires]] which cancel each other out, because [[Desires eat each other when they conflict]]. This leads to a dispersion of willpower.

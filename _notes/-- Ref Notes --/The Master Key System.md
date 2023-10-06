@@ -129,3 +129,13 @@ Humankind has the unique ability to shape thoughts into form through words
 Thoughts become words and sentences are collections of thoughts. It is vital to be accurate in speech because this is the way we architect our lives
 
 The power of a hypersigil is in the way it helps us organize thoughts into a clear design for our lives
+
+## silence leads to insight
+
+Insight is nessesary because every thought will develop into manifestation- we must have insight to determin which thoughts are worth watering so that they grow.
+
+It is in the silence and listening to the internal world that we develop insight.
+
+> Insight is a product of the world within and is developed in the silence, by concentration.
+> 
+*Pg.185, part 15 no. 35*

@@ -2,11 +2,11 @@
 title: Rituals
 date: 2023-02-08
 feed: show
-tags: []
+tags:
+  - index
 aliases:
   - ritual
 ---
-#index
 
 - [[The Threshold Ritual]]
 - [[Ritual for invocation of the Holy Guardian Angel]]

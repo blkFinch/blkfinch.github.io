@@ -1,11 +1,10 @@
 ---
-
 title: Intentions, Goals, and Desires exist on a spectrum of Order to Disorder
 feed: show
 date: 11-05-2022
-
-
+published: true
 ---
+
 Intentions Goals and desires live on a spectrum of orderliness and specificity.
 
 **Desires**
@@ -23,7 +22,7 @@ The vagueness comes from a an inability to see the true will
 Goals are internally consistent
 
 **Intentions**
-Intentions are pure expression of [[The Will]]l. Intentions are decisions, not based in desire or requiring planning or actions. When one intends to have water they simply rise and walk to the sink. In these moments all of the Will and Mind are coordinated and fully expressed
+Intentions are pure expression of [[The Will]]. Intentions are decisions, not based in desire or requiring planning or actions. When one intends to have water they simply rise and walk to the sink. In these moments all of the Will and Mind are coordinated and fully expressed
 
 ___
 ### References

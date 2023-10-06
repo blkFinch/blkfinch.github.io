@@ -2,6 +2,8 @@
 title: Magick is the Science and Art of causing Change to occur in conformity with Will
 date: 2022-11-28
 feed: show
+tags:
+  - evergreen
 ---
 
 

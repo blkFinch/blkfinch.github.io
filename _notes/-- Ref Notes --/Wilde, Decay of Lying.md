@@ -5,7 +5,7 @@ feed: hide
 tags: lit
 ---
 #litnote
-story of girl becoming mesmerised by hypersigil
+story of girl becoming mesmerized by hypersigil
 
 > Here the imitation, as far as it went, was of course accidental.  
 > In the following case the imitation was self-conscious. In the  

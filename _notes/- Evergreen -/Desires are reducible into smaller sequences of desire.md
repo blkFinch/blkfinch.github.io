@@ -13,6 +13,7 @@ It follows then that if I have a desire I wish to manifest into reality there mu
 
 Much like Xeno’s paradox, each one of these actions can be again divided into a smaller sequence. If I desire to move to the kitchen I must first desire to rise from my chair.
 
+
 ___
 ### References
 

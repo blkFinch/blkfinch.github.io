@@ -1,12 +1,13 @@
 ---
 title: Action is preceded by desire
 date: 2022-12-12
-feed: hide
+feed: show
+published: true
 tags:
 ---
-This is perhaps a contentious statement to some philosophers, but that contention comes from the fuzzy definition of desire. When I talk about [[Desires]] in this case- I am simply stating that before the body may move ther must first emenate an impulse for movement. This impulse may be concious or unconscious. 
+This is perhaps a contentious statement to some philosophers, but that contention comes from the fuzzy definition of desire. When I talk about [[Desires]] in this case- I am simply stating that before the body may move there must first emanate an impulse for movement. This impulse may be conscious or unconscious. 
 
-This is to say that before I can pick up my cup to drink my coffee- the nervers in my arm must fire, and before those nerves fire they are sent by the brain and before they are sent by the brain there is *something* and whatever this *something* is I will call desire. I can say that there is something because as far as I can tell all things in material reality (perhaps all of the universe material or otherwise) is causal-- i.e. there must be *something* that caused the brain to trigger the nerves to move, because all natural phenomena are caused by *something*. 
+This is to say that before I can pick up my cup to drink my coffee- the nerves in my arm must fire, and before those nerves fire they are sent by the brain and before they are sent by the brain there is *something* and whatever this *something* is I will call desire. I can say that there is something because as far as I can tell all things in material reality (perhaps all of the universe material or otherwise) is causal-- i.e. there must be *something* that caused the brain to trigger the nerves to move, because all natural phenomena are caused by *something*. 
 
 ___
 ### References

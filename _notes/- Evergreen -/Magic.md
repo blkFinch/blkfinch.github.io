@@ -18,4 +18,3 @@ tags: index
 - [[The central operation of Magic is the alignment of the magician with their true will]]
 - [[Rituals]]
 - [[Kabbalah]]
-- 

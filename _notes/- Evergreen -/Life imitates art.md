@@ -2,9 +2,11 @@
 title: Life imitates art
 date: 2022-12-07
 feed: show
+tags:
+  - evergreen
 ---
 
-Anti-Mimesis is the philosophical stance that Art influences life. It stands in opposition to the idea of Mimesis, popularlized by Aristotle; the idea that art attempts to mimic the perfection of life.
+Anti-Mimesis is the philosophical stance that Art influences life. It stands in opposition to the idea of Mimesis, popularized by Aristotle; the idea that art attempts to mimic the perfection of life.
 
 > Paradox though it may seem--and paradoxes are always dangerous things--it is none the less true that **Life** **imitates art far more than Art imitates life. 
 > 
