@@ -9,7 +9,7 @@ All things which exist- the material universes, the archetypal worlds, the [[God
 
 We can group functions and forms at various rates of vibrations as existing within broad [[Planes of Existence]].
 
-For example: in Platonism, there is the concept of the Platonic Ideal (*i.e. There exists many chairs but there is only one Ideal Chair which is the concept of a chair. It is how we recognize a chair we have never seen before as being a chair- because it is an emenation of the concept of "Chair"*). These Platonic Ideals can be thought of as existing in a Plane known as the [[The Plane of Archetypes]] . 
+For example: in Platonism, there is the concept of the Platonic Ideal (*i.e. There exists many chairs but there is only one Ideal Chair which is the concept of a chair. It is how we recognize a chair we have never seen before as being a chair- because it is an emanation of the concept of "Chair"*). These Platonic Ideals can be thought of as existing in a Plane known as the [[The Plane of Archetypes]] . 
 
 ### Separation of Interaction
 

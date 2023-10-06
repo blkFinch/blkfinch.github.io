@@ -4,4 +4,5 @@ permalink: /notes
 feedformat: card
 title: Living Grimoire 
 ---
-This is a living grimoire. I am actively adding to it. It is a digital collection of my understanding of magical practices.
+
+These are my live notes. I am actively refining and adding to them as I work. Search for topics below, or navigate by using the [[Main Index]]
