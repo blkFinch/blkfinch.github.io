@@ -5,6 +5,7 @@ feed: hide
 tags:
   - ritual
 ---
+This passage should replace the traditional invocation of the [[Lesser Banishing Ritual of the Pentagram]] 
 
 >_Before me to the east is the swift sword of reason, the penetrating winds, Raphael
   Behind me to the west is the mothers cup, the overflowing sea, Gabriel

@@ -1,8 +1,9 @@
 ---
 title: Chaos Magick
 date: 2023-01-11
-feed: hide
+feed: show
 tags:
+  - -index
 ---
 
 - [[The 8 Colors of Chaos Magick]]

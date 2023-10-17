@@ -48,7 +48,7 @@ seek silence:
 
 The subconscious mind will take action on thoughts proportionate to the intensity of the thought. Deep emotion, and consistent rumination on the thought will increase the action taken (and the result will manifest) - not thinking with any emotion or rumination on an idea will starve it.
 
-### Everyman is the reflection of his thoughts
+### Every man is the reflection of his thoughts
 > Every man is a reflection of the thoughts he has entertained in his life
 
 ### Every Effect has a cause
@@ -130,7 +130,7 @@ Thoughts become words and sentences are collections of thoughts. It is vital to 
 
 The power of a hypersigil is in the way it helps us organize thoughts into a clear design for our lives
 
-## silence leads to insight
+### silence leads to insight
 
 Insight is nessesary because every thought will develop into manifestation- we must have insight to determin which thoughts are worth watering so that they grow.
 
@@ -139,3 +139,29 @@ It is in the silence and listening to the internal world that we develop insight
 > Insight is a product of the world within and is developed in the silence, by concentration.
 > 
 *Pg.185, part 15 no. 35*
+
+## Chapter 17
+### Wealth is valued by its exchange
+We can only measure wealth by the amount of freedom and happiness it can be exchanged for.
+
+><mark class="hltr-pink">Wealth should never be desired as an end but simply as a means to an end</mark>. Success is contingent upon a higher ideal than the mere accumulation of riches, and <mark class="hltr-pink">he who aspires to such success must formulate an ideal for which he is willing to strive </mark>
+
+
+### The Septimal Law
+Every 7 years we undergo a great cycle. This is also about the length of time it takes for every cell in our body to be replaced. In this book, the author maps the law of 7s onto the human lifespan
+-  infancy
+-  childhood - the beginning of individual responsibility 
+-  adolescence
+-  full adult hood
+- 28-35 constructive period / building of wealth
+- reactions and changes
+- reconstruction, adjustment and recuperation
+The cycle repeats at the 50th year
+
+_pg 190_
+
+### Visualize the Environment not the specifics
+
+To manifest a new environment simply hold the ideal in mind, do not worry about specifics- focus on the ideal and the people places and things nessecary will come about. _pg 194_
+
+This is common manifestation advice. __Dont focus on the How just visualize the desired outcome__. This passage focus even more on focusing on the specific Ideal that the outcome represents rather than even the specifics of that outcome. 

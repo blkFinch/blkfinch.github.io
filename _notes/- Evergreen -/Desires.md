@@ -20,3 +20,4 @@ I do not have a concise and atomic definition of Desire however we can *infer* a
 - [[Hypersigils are sigils extended into the fourth dimension]]
 - [[Lesser wills and desires must be organized under a single aspiration to attain]]
 - [[Sigils are visually encoded desires]]
+- [[Conditions for a desire to manifest]]

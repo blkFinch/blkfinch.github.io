@@ -24,7 +24,7 @@ _Ways that I am currently shifting towards a more analogue workflow as of 9/27/2
 - Attempting to use a Hipster PDA (stack of index cards) for fleeting notes, and task management.
 	- I am not sure this will overtake a digital task manager like todoist but I would certainly prefer to carry this stack of cards around rather than my phone
 
-I think ultimately, for [[My PKMS overview|My PKMS]] I want to store evergreen information digitally to preserve its accessibility and lifespan- but so much information is saved in my system that is not needed to be saved - projects, tasks, fleeting notes and reference etc... Instead of the sort of medium lifespace ephemera I keep in GKeep I could use an analogue solution as well. Although I should remember that with certain information- digital provides a layer of security.
+I think ultimately, for [[My PKMS overview|My PKMS]] I want to store evergreen information digitally to preserve its accessibility and lifespan- but so much information is saved in my system that is not needed to be saved - projects, tasks, fleeting notes and reference etc... Instead of the sort of medium lifespace ephemera I keep in GKeep I could use an analogue solution as well. Although I should remember that with certain information- digital provides a layer of security and accessibility. 
 
 ___
 ### References

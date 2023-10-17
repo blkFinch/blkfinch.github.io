@@ -4,13 +4,17 @@ date: 2023-09-01
 feed: hide
 tags: []
 ---
+This suggested meditation is the practice of unifying opposites. In [[The Bliss of Inner Fire]] , Lama yeshe suggests a tantric meditation of normalizing our reactions by imaging people we hate and people we love and feeling the same towards them both.
 
+[[Aleister Crowley]], and [[Austin Osman Spare]] both make similar suggestions. Spare notes that by unifying an idea with it's opposite there is a release of magical energy, what he calls belief, and this energy can then be reincorporated and applied to the willed outcome.
 
-1.  Hold attention on multiple  oposing images or ideas 
+Here is a simple explanation of the technique:
+
+1.  Hold attention on multiple  opposing images or ideas 
 2.  Hold these ideas with no value judgement or reaction until they become completely equal in the mind
 3.  When these sperate ideas appear to be ONE then direct my Will to Love that single idea
 
-[[Love]]
+[[Love]], [[Yoga]]
 ___
 ### References
 _[[Aleister Crowley]], Liber CL_
@@ -21,5 +25,5 @@ _[[Aleister Crowley]], Liber CL_
 > **When this is thorough and profound in the impact of its realization, then is the moment for the aspirant to direct his Will to Love upon it, so that his whole consciousness findeth focus upon that One Idea**. And at the first it may be fixed and dead, or lightly held. This may then pass into dryness, or into repulsion. Then at last by pure persistence in that Act of Will to Love, shall Love himself arise, as a bird, as a flame, as a song, and the whole Soul shall wing a fiery path of music unto the Ultimate Heaven of Possession.
 
 [[Austin Osman Spare, The Book of Pleasure]]
->Percieve, and feel without the necessity of an opposite, but by its relative. Percieve light without shadow by its own colour as contrast, through evoking the emotion of laughter at the time of ecstasy in union, and by practice till that emotion is untiring and subtle.
+>Perceive, and feel without the necessity of an opposite, but by its relative. Perceive light without shadow by its own colour as contrast, through evoking the emotion of laughter at the time of ecstasy in union, and by practice till that emotion is untiring and subtle.
 

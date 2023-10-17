@@ -8,8 +8,11 @@ feed: hide
 published: true
 ---
 
+
 - [[Magic]]
 	- [[Rituals]]
 	- [[Holy Guardian Angel]]
 - [[The Will]]
 - [[Desires]]
+- [[Yoga]]
+- 
