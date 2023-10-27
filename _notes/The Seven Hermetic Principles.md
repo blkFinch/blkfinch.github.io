@@ -29,10 +29,8 @@ This is supported by my vision of existing along an infinite thread that stretch
 
 ### The Principle of Polarity
 
-All things exist on a spectrum between two opposites. 
->Thesis and antithesis are indentical in nature but different in degree.
+[[Principle of Polarity]]
 
-This means that oppposites are indeed the same thing just different expressions of the same "vibration"
 
 ### The Principle of Rhythm
 
@@ -43,13 +41,7 @@ High tide/low tide. Seasons. etc... All things change on a slower pattern. Maste
 All actions have a reaction.
 
 ### The Principle of Gender
-Gender exists on all planes and the interplay of penetrative and receptive is at the core of all generation and reproduction. Notably
-
->Everything and Every person contains the two Elements or Principles. or this Great Principle within (themselves)
-
-Also another based quote from the kybalion:
-
->We caution you that this Principle has no reference to the many base, pernicious and degrading lustful theories, teachings and practices, which are taught under fanciful titles, and which are a prostitution of the great natural principle of Gender. Such base revivals of the ancient infamous forms of Phallicism tend to ruin mind, body and soul, and the Hermetic Philosophy has ever sounded the warning note against these degraded teachings which tend toward lust, licentiousness, and perversion of Nature's principles. If you seek such teachings, you must go elsewhere for them—Hermeticism contains nothing for you along these lines. 
+[[Magical Gender]]
 
 ___
 ### References

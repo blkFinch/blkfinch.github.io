@@ -16,6 +16,7 @@ aliases:
 - [[The Threshold Ritual]]
 - [[Ritual for invocation of the Holy Guardian Angel]]
 - [[A modified invocation for the LBRP]]
+- [[A Transmuting Narrative Game of Tarot]]
 ### Thelemic
 - [[Star Ruby]]
 - [[Lesser Banishing Ritual of the Pentagram]]

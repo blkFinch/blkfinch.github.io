@@ -3,10 +3,9 @@ title: What is Magic
 date: 2022-11-28
 feed: show
 ---
+#todo _my thoughts on this have changed, I now believe magic to be a living art just like dance or painting or any other mundane art. It implements common techniques ([[Magical Techniques|Magical Technique]]) to achieve various goals both practical and aesthetic. Its modern practitioners push the art forward and are in conversation with the practitioners of the past see [[Magic as an Academic Field]]_
 
-An open question.
-
-My perrsonal theory currently is [[Magic is the art of making a true Decision]]
+My personal theory currently is [[Magic is the art of making a true Decision]]
 
 Many magicians have answered in different ways but we can see certain patterns emerge:
 - [[Aleister Crowley]], [[Magick is the Science and Art of causing Change to occur in conformity with Will]]

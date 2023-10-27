@@ -1,5 +1,5 @@
 ---
-title: Creating internal conscious beings is deliberate soul loss
+title: Creating internal conscious beings through compartmentalization of the ego and soul loss
 date: 2023-10-17
 tags: 
 aliases: 

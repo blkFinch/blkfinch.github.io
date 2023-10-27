@@ -4,12 +4,16 @@ date: 2022-12-08
 feed: show
 ---
 
-[[The Slipbox note taking method]], or Zettelkasten method, is designed to create a sort of automated conversation partner. Luhman was very explicit in this use of the slip box as a sort of automated conversation partner. He even refers to his slip box as a person in his essay, *Communicating With Slip Boxes*, and later describes how the process of creating a zettlekasten allows a "living" ego to emerge from the notes.
+[[The Slipbox note taking method]], or Zettelkasten method, is designed to create a sort of automated conversation partner. Luhman was very explicit in this use of the slip box as a sort of automated conversation partner. He even refers to his slip box as a person in his essay, *Communicating With Slip Boxes*, and later describes how the process of creating a Zettelkasten allows a "living" ego to emerge from the notes.
 
 > <span class='hltxt'>As a result of extensive work with this technique a kind of secondary memory will arise, an alter ego with who we can constantly communicate.</span> It proves to be similar to our own memory in that it does not have a thoroughly constructed order of its entirety, not hierarchy, and most certainly no linear structure like a book.<span class='hltxt'> Just because of this, it gets its own life, independent of its author.</span>
 
-This emergence of a seperate consciousness is similar in nature to Golems, Tulpas, or Servitors. Functiontionally we are [[Creating an Internal Conscious Being]] but instead of using blood and clay as the medium for this new life, we are using our own knowledge- externalized and made living by threading the pieces together. 
+This emergence of a separate consciousness is similar in nature to Golems, Tulpas, or Servitors. We are [[Creating an Internal Conscious Being]] but instead of using blood and clay as the medium for this new life, we are using our own knowledge- externalized and made living by threading the pieces together.
 
+The primary [[Magical Techniques|Magical Technique]] implemented here is compartmentalizing aspects of the ego to create a distinct sub-consciousness ([[Creating internal conscious beings through compartmentalization of the ego and soul loss]]). However unlike the internal beings, the slipbox is an external device that mirrors aspects of ourselves without causing [[soul loss]]. Like the Black Mirror  written about by [[Franz Bardon]] in Initiation into Hermetics. 
+
+#### see also
+[[Magic]]
 ___
 ### References
 

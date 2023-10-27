@@ -4,8 +4,8 @@ date: 2023-06-28
 feed: hide
 tags: index
 ---
-- [[Magic is an expression of the will]]
 - [[What is Magic]]
+- [[Magic is an expression of the will]]
 - [[The Magic Circle]]
 - [[Magic is but one's natural ability to attract without asking]]
 - [[Chaos Magick]]

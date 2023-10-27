@@ -23,7 +23,7 @@ Some rules to follow when developing a slipbox:
 9. never delete: Just create a new note explaining why previous note was wrong
 10. be fearless: focus on information I find novel or interesting without thinking about its future use or audience
 
-The slipbox was meant to be a communication partner. [[A presupposition of communication is that partners can mutually surprise each other]] . And so the slipbox is able to produce novel ideas- to surprise the user even though they made the tool. To achieve this- Ideas must be deeply linked so that when searching for one idea new connected threads emerge. It begins to take on its own "beingness".  In this way [[The Zettelkasten is a magical object]] .
+**The slipbox was meant to be a communication partner**. [[A presupposition of communication is that partners can mutually surprise each other]] . And so the slipbox is able to produce novel ideas- to surprise the user even though they made the tool. To achieve this- Ideas must be deeply linked so that when searching for one idea new connected threads emerge. It begins to take on its own "beingness".  In this way [[The Zettelkasten is a magical object]], it is a sort of conversational Golem.
 
 
 ___
