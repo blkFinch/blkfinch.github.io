@@ -24,3 +24,5 @@ aliases:
 - [[A Method for meditating upon Love]]
 - [[A method of Scrying the Enochian Aethyrs]]
 
+### Shamanic
+- [[Group Dream Reentry]]
