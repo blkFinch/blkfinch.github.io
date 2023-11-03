@@ -3,7 +3,7 @@ title: What is Magic
 date: 2022-11-28
 feed: show
 ---
-#todo _my thoughts on this have changed, I now believe magic to be a living art just like dance or painting or any other mundane art. It implements common techniques ([[Magical Techniques|Magical Technique]]) to achieve various goals both practical and aesthetic. Its modern practitioners push the art forward and are in conversation with the practitioners of the past see [[Magic as an Academic Field]]_
+#todo _my thoughts on this have changed, I now believe magic to be a living art just like dance or painting or any other mundane art. It implements common techniques ([[A taxonomy of Magical Techniques|Magical Technique]]) to achieve various goals both practical and aesthetic. Its modern practitioners push the art forward and are in conversation with the practitioners of the past see [[Magic as an Academic Field]]_
 
 My personal theory currently is [[Magic is the art of making a true Decision]]
 

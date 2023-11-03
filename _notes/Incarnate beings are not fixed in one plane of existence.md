@@ -7,7 +7,7 @@ tags:
 
 The amazing power of our minds and [[Imagination]] allow us to freely move about in many different [[Planes of Existence]]. 
 
-see,  [[Astral Travel]], for examples of ways we can do this.
+see,  [[Astral]], for examples of ways we can do this.
 
 Perhaps it is this quality that makes being incarnate so desirable. #todo : _source?_ 
 

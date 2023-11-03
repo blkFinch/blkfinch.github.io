@@ -7,9 +7,10 @@ tags:
 ---
 ### States
 - [[Samadhi]]
-- [[Astral Travel]]
 - [[Mental, Astral, and Etheric projection]]
+- [[Shamanic Dreaming]]
+- [[Shamanic Journey]]
 
-### Techiniques
+### Techniques
 - [[Astral Projection Techniques]]
 -  [[Phase method of OBE]]

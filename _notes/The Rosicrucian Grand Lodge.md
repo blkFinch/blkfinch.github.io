@@ -5,7 +5,7 @@ feed: show
 tags:
 ---
 
-AMORC, a sect of [[Rosicrucianism]] and a fraternal order has a book desdcribing an astral meeting place. It is visited through what seems to be a form of [[Astral Travel]]
+AMORC, a sect of [[Rosicrucianism]] and a fraternal order has a book desdcribing an astral meeting place. It is visited through what seems to be a form of [[Astral]]
 
 A spiritual plane- it is a shared plane and all who seek to commune with the spirit are present here. To ascend:
 

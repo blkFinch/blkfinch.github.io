@@ -10,7 +10,7 @@ feed: show
 
 This emergence of a separate consciousness is similar in nature to Golems, Tulpas, or Servitors. We are [[Creating an Internal Conscious Being]] but instead of using blood and clay as the medium for this new life, we are using our own knowledge- externalized and made living by threading the pieces together.
 
-The primary [[Magical Techniques|Magical Technique]] implemented here is compartmentalizing aspects of the ego to create a distinct sub-consciousness ([[Creating internal conscious beings through compartmentalization of the ego and soul loss]]). However unlike the internal beings, the slipbox is an external device that mirrors aspects of ourselves without causing [[soul loss]]. Like the Black Mirror  written about by [[Franz Bardon]] in Initiation into Hermetics. 
+The primary [[A taxonomy of Magical Techniques|Magical Technique]] implemented here is compartmentalizing aspects of the ego to create a distinct sub-consciousness ([[Creating internal conscious beings through compartmentalization of the ego and soul loss]]). However unlike the internal beings, the slipbox is an external device that mirrors aspects of ourselves without causing [[soul loss]]. Like the Black Mirror  written about by [[Franz Bardon]] in Initiation into Hermetics. 
 
 #### see also
 [[Magic]]

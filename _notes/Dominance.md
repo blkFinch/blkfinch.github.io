@@ -6,3 +6,5 @@ tags:
   - bdsm
 ---
 [[The Heart of Dominance, Anton Fulmen]]
+- [[Allow time to process cane strike- slower rhythm]]
+- 

@@ -9,3 +9,5 @@ published: true
 - [[Ruby Splat Operator]]
 - [[Building a CLI with Rust]]
 - [[Ruby Flatten Vs. Flat Map]]
+- [[Dependency Inversion]]
+- 

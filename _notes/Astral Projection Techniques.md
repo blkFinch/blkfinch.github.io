@@ -4,7 +4,7 @@ date: 2023-02-24
 feed: show
 tags:
 ---
-Techniques to induce [[Astral Travel]] as well as etheric projection
+Techniques to induce Astral as well as etheric projection
 
 ## Preliminary
 

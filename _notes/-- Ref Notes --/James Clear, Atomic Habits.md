@@ -1,5 +1,5 @@
 ---
-title: James Clear, Atomic Notes
+title: James Clear, Atomic Habits
 date: 2023-10-01
 tags:
   - source

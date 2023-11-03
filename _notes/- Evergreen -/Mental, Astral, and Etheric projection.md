@@ -2,7 +2,9 @@
 title: Mental, Astral, and Etheric projection
 date: 2023-02-24
 feed: show
-tags:
+tags: 
+aliases:
+  - Astral Travel
 ---
 The three sorts of projection are often conflated with one another. These terms are the most standard that I can find
 
@@ -10,6 +12,7 @@ The three sorts of projection are often conflated with one another. These terms 
 -   Astral: closer to [[Lucid dreaming]]. Can experience actual parts of physical plane from the astral
 -   Etheric: Full embodiment in the etheric body == OBE
 
+Some common techniques used to induce astral travel usually involve deep relaxation and allowing the mind to energetically expand outward from the body- [[Astral Projection Techniques]]
 ## OBE
 When consciously entering an astral projection or OBE experience- one begins by first relaxing to the point of sleep paralysis. 
 
@@ -19,6 +22,11 @@ When consciously entering an astral projection or OBE experience- one begins by 
 - Vibrations that increase in intensity
 - flashing light
 - falling sensations
+
+To induce an OBE you can attempt the [[Phase method of OBE]]
+
+#### Is Astral Travel an OBE?
+There seems to be division among contemporary practitioners about what astral travel is. Is it similar to mental travel where the physical awareness remains in the body? Or is it more close to an out of body experience (etheric projection) where the physical awareness leaves the body entirely?
 
 ___
 ### References
