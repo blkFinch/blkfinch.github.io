@@ -7,7 +7,7 @@ aliases:
   - The Master Key
 ---
 
-Haanel, Charles F. _The Maseter Key System_. St. Martin’s Essentials, 2023.
+Haanel, Charles F. _The Master Key System_. St. Martin’s Essentials, 2023.
 ## Overview
 The Master Key System is a work of New Thought literature that is heavily influenced by the concept of the Law of Attraction
 

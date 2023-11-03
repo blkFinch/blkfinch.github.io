@@ -1,5 +1,5 @@
 ---
-title: Magic as a Academic Field
+title: Magic as an Academic Field
 date: 2023-10-03
 tags:
   - evergreen
