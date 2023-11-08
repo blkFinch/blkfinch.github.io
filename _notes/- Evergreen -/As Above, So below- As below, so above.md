@@ -1,7 +1,7 @@
 ---
 title: As Above, So below- As below, so above
 date: 2023-02-12
-feed: hide
+feed: show
 tags:
 ---
 

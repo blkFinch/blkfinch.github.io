@@ -7,6 +7,7 @@ tags:
 
 Just like how color is merely the spectrum of light that is visible to our senses- matter is the spectrum of spiritual energy that is tangible to the human senses.
 
+Not just matter but [[All exists on a spectrum of vibration]]. Matter, light, emotions, forms. All of existence is a composite of various vibrational strands.
 ___
 ### References
 

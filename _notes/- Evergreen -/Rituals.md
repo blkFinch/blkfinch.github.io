@@ -26,3 +26,6 @@ aliases:
 
 ### Shamanic
 - [[Group Dream Reentry]]
+
+
+- [[How to construct a ritual]]

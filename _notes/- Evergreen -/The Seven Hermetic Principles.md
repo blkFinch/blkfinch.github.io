@@ -22,7 +22,7 @@ This principle has been summarized in the axiom [[As Above, So below- As below, 
 Everything is in motion- everything vibrates.
 
 I believe what this is getting at is that ultimately all of reality exists like light photons in a wave-particle duality. There is no finite point only frequencies of vibrations that intermingle. 
-[[Matter is just the spectrum of energetic vibration that is tangible to the mundane senses]] 
+[[Matter is just the spectrum of energetic vibration that is tangible to the mundane senses]] , [[All exists on a spectrum of vibration]]
 
 This is supported by my vision of existing along an infinite thread that stretches from the unity into dispersion.
 
