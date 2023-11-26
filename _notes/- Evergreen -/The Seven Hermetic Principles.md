@@ -6,13 +6,13 @@ tags:
 ---
 
 ### The Principle of Mentalism
-The world is mental. Concsiousness preceeds material. [[Action is preceded by desire]] . 
->The ALL... May be thought of as an universala, infinite, living mind.
+The world is mental. Consciousness precedes material. [[Action is preceded by desire]] . 
+>The ALL... May be thought of as an universal, infinite, living mind.
 
 -- The Kybalion
 
 ### The Principle of Correspondence 
-There is always a correspondence between the laws and phenomena on the various planes of existence. This means that we can reason about the phenoma of higher planes by making observations on our planes. The macrocosm is like the microcosm. We can reason that the realm of the spirit behaves similar to the realm of the material. The relationship of cells within the body is like the relationship of bodies within a city... etc
+There is always a correspondence between the laws and phenomena on the various planes of existence. This means that we can reason about the phenomena of higher planes by making observations on our planes. The macrocosm is like the microcosm. We can reason that the realm of the spirit behaves similar to the realm of the material. The relationship of cells within the body is like the relationship of bodies within a city... etc
 
 **This seems to imply that our understanding of physics will probably need to shift so that we can see relationships between the quantum and the macro** 
 

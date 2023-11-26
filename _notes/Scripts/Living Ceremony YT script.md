@@ -13,6 +13,6 @@ published: false
 ## Script
 ### intro scene
 - close: candle being lit
-- galen stand in robe in front of altar
+- finch stand in robe in front of altar
 - begin to draw pentagram
 - card: definition of ceremony
