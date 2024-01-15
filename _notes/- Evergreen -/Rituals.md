@@ -16,6 +16,7 @@ aliases:
 - [[The Threshold Ritual]]
 - [[Ritual for invocation of the Holy Guardian Angel]]
 - [[A modified invocation for the LBRP]]
+- [[A Transmuting Narrative Game of Tarot]]
 ### Thelemic
 - [[Star Ruby]]
 - [[Lesser Banishing Ritual of the Pentagram]]
@@ -23,3 +24,8 @@ aliases:
 - [[A Method for meditating upon Love]]
 - [[A method of Scrying the Enochian Aethyrs]]
 
+### Shamanic
+- [[Group Dream Reentry]]
+
+
+- [[How to construct a ritual]]

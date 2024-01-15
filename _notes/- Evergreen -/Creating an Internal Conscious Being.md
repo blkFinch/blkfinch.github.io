@@ -1,5 +1,5 @@
 ---
-title: creating a golem
+title: Creating an Internal Conscious Being
 date: 2022-12-12
 feed: hide
 tags:

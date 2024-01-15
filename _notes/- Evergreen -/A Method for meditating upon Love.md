@@ -1,7 +1,7 @@
 ---
 title: A Method for meditating upon Love
 date: 2023-09-01
-feed: hide
+feed: show
 tags: []
 ---
 This suggested meditation is the practice of unifying opposites. In [[The Bliss of Inner Fire]] , Lama yeshe suggests a tantric meditation of normalizing our reactions by imaging people we hate and people we love and feeling the same towards them both.

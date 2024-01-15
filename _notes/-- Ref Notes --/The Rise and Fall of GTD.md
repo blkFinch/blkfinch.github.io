@@ -26,7 +26,7 @@ Newport references a Mid-Century writer, Peter Drucker who was influential in th
 
 ### Productivity for Productivity sake can have mental blowback
 
-Mann, the author behind 43 Folders and the Inbox Zero movement is a notable leader in the productivity movement who became disenchanted and left the movement entirely.
+Merlin Mann, the author behind 43 Folders and the Inbox Zero movement is a notable leader in the productivity movement who became disenchanted and left the movement entirely.
 
 ><mark class="hltr-pink">Productivity pr0n, he suggested, was becoming a bewildering, complexifying end in itself—list-making as a “cargo cult,” system-tweaking as an addiction.</mark> “On more than a few days, I wondered what, precisely, I was trying to accomplish,” he wrote. Part of the problem was the recursive quality of his work. Refining his productivity system so that he could blog more efficiently about productivity made him feel as if he were being “tossed around by a menacing [Rube Goldberg](https://www.newyorker.com/tech/annals-of-technology/object-of-interest-rube-goldberg-machines) device” of his own design; at times, he said, “I thought I might be losing my mind.”
 

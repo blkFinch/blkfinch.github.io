@@ -12,6 +12,8 @@ As we become more clear on our Will we can begin to intuit core values.
 
 Because goals are internally consistent collections of [[Desires]], if we coordinate our desires into goals that are aligned with our values we will be acting in closer accordance with our will.
 
+Confirming that our desires align with our Ideals and our Goals align with our desires. we can easily confirm that our actions will bring us to the correct destination if they align with our goals. [[Right Action Leads to Right Results]]
+
 ___
 ### References
 [[Crowley, Book Four]]

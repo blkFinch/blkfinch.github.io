@@ -1,7 +1,7 @@
 ---
 title: A modified invocation for the LBRP
 date: 2023-06-06
-feed: hide
+feed: show
 tags:
   - ritual
 ---
