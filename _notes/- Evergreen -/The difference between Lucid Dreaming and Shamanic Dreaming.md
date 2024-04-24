@@ -1,7 +1,7 @@
 ---
 title: The difference between Lucid Dreaming and Shamanic Dreaming
 date: 2023-03-21
-feed: show
+feed: hide
 tags:
 ---
 

@@ -6,8 +6,8 @@ aliases:
 feed: show
 published: true
 ---
-- [[Ruby Splat Operator]]
+- [[-- Ref Notes --/Ruby Splat Operator|Ruby Splat Operator]]
 - [[Building a CLI with Rust]]
 - [[Ruby Flatten Vs. Flat Map]]
 - [[Dependency Inversion]]
-- 
+- [[Conditional Rendering in React]]

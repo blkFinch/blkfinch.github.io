@@ -9,7 +9,7 @@ feed: show
 published: true
 ---
 
-[[Magic]] as an artform is composed of a handful of mental functions which are applied singularly or in tandem to produce the desired effect.
+[[Magic]] as an artform is composed of a handful of mental functions which are applied singularly or in tandem to produce the desired effect.[[AAuther B]]
 
 Here is a rough list of some of these techniques:
 - **ego compartmentalization** as in [[Creating an Internal Conscious Being]] and [[Soul Loss]] 

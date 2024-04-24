@@ -37,6 +37,9 @@ Because of this, rather than using the term _shamanism_ I want to use the term _
 - Speaking with spirits
 - Intuitive Music Making
 
+## Journey
+- [[The shamanic journey is not astral travel]]
+- [[The difference between Lucid Dreaming and Shamanic Dreaming]]
 ___
 ### References
 

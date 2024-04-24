@@ -13,3 +13,6 @@ unhealthy. possibly dangerous.
 
 However these tools can be used for diverse purposes and should not be ignored. The [[The Slipbox note taking method]] for example is a brilliant tool for engaging with knowledge, and borders on [[Magic]] as it becomes its own intelligence -- [[The Zettelkasten is a magical object]].
 
+
+*todo: note this may have connections with obsession with personal mastery -- see: [[Catharsis is not healing]] -- desire to be "fixed" and move on*
+

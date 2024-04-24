@@ -13,4 +13,4 @@ __When we have a subconscious cosmology it allows us to organize and understand 
 
 Having a consistent cosmology is important to ceremony because the ceremony will reinforce whatever cosmology we set up. If we place Air to the east, we should always place air to the east because this will strengthen our conviction and understanding of the universe.
 
-We should keep our cosmologies consistent- __simply mixing and matching may create a muddy focus__
+We should keep our cosmologies consistent- __simply mixing and matching may create a muddy focus__.

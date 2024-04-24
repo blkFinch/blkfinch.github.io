@@ -17,3 +17,10 @@ Aristotle would expand on this concept later and describe each element as an int
 | earth | dry, cold | pantacles| Physical | bull
 
 Important to note that while modern science has moved on from this simple concept of four elements, the idea that all of matter is made of a collection of "root elements" was correct.
+
+### Elements and the Mind
+
+>Water is the fluid through which we feel
+   Air is the medium through which we "apprehend"
+   Fire is the energy of will
+   Earth is the raw material
