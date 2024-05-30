@@ -1,3 +1,12 @@
+---
+title: Writing good melody
+date: 2024-05-09
+tags: 
+aliases: 
+feed: hide
+published: false
+---
+
 - Beware 2 and 6 note min scale / 4 and 7 major scale
 - melody is rhythm 
     - important beats in order: down beat, upbeat, off beat

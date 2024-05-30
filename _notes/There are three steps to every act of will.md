@@ -16,3 +16,4 @@ So must be aligned the emotional body, the mental body, and the Will.
 - [[There are three fundamental steps in making a true decision]]
 - [[The Master Key references a three step process]]
 - [[The Three steps correspond to the powers of the sphinx]]
+- [[Three questions to ask before manifesting]]

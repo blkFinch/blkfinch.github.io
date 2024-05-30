@@ -11,6 +11,7 @@ tags: index
 - [[Ceremony centers us within the material and temporal universe]]
 - [[Ceremony is a somatic metaphor for magical action]]
 - [[Ceremony can be intuitive and improvised]]
+- [[In group ceremony, a formal structure can synchronize all participants]]
 - Ceremony is a moment which marks a transition from one state to another
 
 Ceremony as a solution to the _psychologization of magic_:

@@ -1,0 +1,1 @@
+Would you like that you little slut? Why bother even going to class anymore when you can just let dad rape and use all your little holes. And then one day you and I can find another daughter and I'll let you teach her how to please daddy too.

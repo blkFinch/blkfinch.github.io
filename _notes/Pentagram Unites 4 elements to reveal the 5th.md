@@ -1,3 +1,11 @@
+---
+title: Pentagram Unites 4 elements to reveal the 5th
+date: 2024-05-10
+tags: 
+aliases: 
+feed: show
+published: true
+---
 The pentagram ritual brings 4 elements together to reveal the 5th
 
 The ritual arranges each of the 4 elements around the magician, then the 5th element of spirit is identified as the 6 rayed star.

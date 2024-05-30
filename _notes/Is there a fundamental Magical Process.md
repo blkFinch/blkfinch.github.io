@@ -15,7 +15,7 @@ My working theory is that there is a fundamental pattern to most magical practic
 - set intent
 - enter hyper reality (or altered reality) [[The Magic Circle]]
 - Actively choose intent
-- Leave hyper reality (sealing)
+- Leave hyper reality and *integrate* (sealing) (ecology check/integrate)
 
 *Ultimately it may be as simple as making a decision: [[There are three fundamental steps in making a true decision]]*
 

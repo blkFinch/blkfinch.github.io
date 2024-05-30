@@ -11,6 +11,7 @@ aliases:
 ### Chaos Magic
 - [[Steps for creating a hypersigil]]
 - [[Creating an Internal Conscious Being]]
+- [[The Harem Mandala (Succubus School)]]
 
 ### Personal Rituals
 - [[The Threshold Ritual]]
@@ -23,6 +24,7 @@ aliases:
 - [[Star Sapphire]]
 - [[A Method for meditating upon Love]]
 - [[A method of Scrying the Enochian Aethyrs]]
+- [[Enochian Prayer to achieve Knowledge and Conversation]]
 
 ### Shamanic
 - [[Group Dream Reentry]]

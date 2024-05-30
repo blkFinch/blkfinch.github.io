@@ -10,3 +10,4 @@ tags:
 - [[Inner Fire Meditation]]
 - [[Desires]]
 - [[Vajroli Mudra (Non-Ejaculatory Orgasm)]]
+- [[Four types of karma]]

@@ -17,6 +17,7 @@ My primary theory is that this resistance to success can be circumvented by crea
 assume the following [[Conditions for a desire to manifest]]
 - it must be possible
 - I must believe it is possible
+- I want to have this result now with no reservations
 
 The solution then is to trace backwards the chain of desires until the link is found that does not meet the required conditions for success. Ritual can then be used to correct the resistance at that link and from there the rest of the chain should fall into place like picking the stuck tumbler of a lock.
 

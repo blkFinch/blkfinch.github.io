@@ -5,7 +5,7 @@ feed: show
 tags: script
 ---
 
-When we perform [[Ceremony]] -  [[Ceremony centers us within the material and temporal universe]]
+When we perform [[Ceremony 1]] -  [[Ceremony centers us within the material and temporal universe]]
 
 This informs us of a way of seeing the universe. The more that we perform a ceremony that conveys a specific cosmology- the more we become attuned to perceiving the universe as existing within that framework. 
 

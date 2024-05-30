@@ -19,3 +19,16 @@ Thus the pyramid base is built- Hoor/Hades on one corner, Isis on the other, and
 
 ## 2- Initiation
 The aspirant is brought to the four princes of hell- guided by the voice of Isis who has prepared him. Not only the great mother but also his aspiration to rise, and achieve the great work.  
+
+
+## Terms
+
+**Asar** - Osiris / Son of Ra
+**Asi** - Isis
+**Apep/Apophis** - Serpent god that represents death
+**Set** - kills Osiris
+
+#### Hoor-Apep
+Horus /Apep . Son of Osiris/Isis ??? 
+#### Asar un Nefer
+Self made perfect

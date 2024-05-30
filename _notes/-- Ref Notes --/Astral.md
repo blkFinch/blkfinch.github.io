@@ -9,3 +9,4 @@ published: true
 
 - [[Mental, Astral, and Etheric projection]]
 - [[Astral Projection Techniques]]
+- [[Incarnate beings are not fixed in one plane of existence]]

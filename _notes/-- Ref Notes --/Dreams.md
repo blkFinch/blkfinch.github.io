@@ -5,3 +5,4 @@ feed: hide
 tags:
 ---
 [[Lucid dreaming]]
+[[Dreams can be used to facilitate magical practices]]

@@ -9,3 +9,5 @@ published: true
 
 - [[Eriksonian Hypnosis Course]]
 - [[Jacquin Course]]
+	- [[Arrow Technique]]
+- [[My Hypnotic System]]

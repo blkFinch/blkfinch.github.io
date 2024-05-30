@@ -7,7 +7,7 @@ tags:
 
 **All desires are infinitely reducible into smaller sequences of desires**
 
-[[Action is preceded by desire]]. Desire in this case is the impulse to Will- the Chokmah that precedes every form.
+[[Action is preceded by desire]]. Desire in this case is the impulse to Will- the [[Chokmah]] that precedes every form.
 
 It follows then that if I have a desire I wish to manifest into reality there must be a sequence of smaller desires that must be achieved before I achieve the result. If I desire a glass of water I must also desire to move into the kitchen and turn on the sink to pour the water.
 

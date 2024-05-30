@@ -6,4 +6,8 @@ aliases:
 feed: hide
 published: true
 ---
+
 - [[Nadi Shodhana Pranayama]]
+- [[Death Posture]]
+- [[Four types of karma]]
+- [[Tantra]]

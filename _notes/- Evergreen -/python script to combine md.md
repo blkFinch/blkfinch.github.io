@@ -11,7 +11,7 @@ import os
 
 import sys
 
-#depends on filenaming convention MR-<num>-- <str>
+#depends on filenaming convention MR-%3Cnum%3E-- <str>
 def get_record_number(filename):
     try:
         return int(filename.split('--')[0].split('-')[1])
@@ -44,11 +44,11 @@ if __name__ == "__main__":
 
         output_file = "combined.md"
 
-combine_markdown_files(folder_path, output_file)
+combine_markdown_files(folder_path, output_file)>)
 ```
 run from console:
 ```
-<full path>/combiner.py <full path to folder to combine>
+<full path>/combiner.py <full path to folder to combine>pythi
 ```
 
 

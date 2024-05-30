@@ -4,6 +4,7 @@ date: 2023-01-28
 feed: show
 tags:
 ---
+
 [[The primary work of A.’.A.’. is the knowledge and conversation of the HGA]]
 
 ### To Obtain Knowledge and Conversation of your Holy Guardian Angel
