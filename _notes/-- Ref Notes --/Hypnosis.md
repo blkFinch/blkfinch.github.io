@@ -11,3 +11,5 @@ published: true
 - [[Jacquin Course]]
 	- [[Arrow Technique]]
 - [[My Hypnotic System]]
+	- [[hypnotherapy session outline]]
+- [[hypnosis to meet dead loves ones]]

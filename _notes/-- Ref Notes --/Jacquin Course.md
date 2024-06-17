@@ -123,9 +123,10 @@ This can be understood through soul loss / soul retrieval. There are _Protectors
 1. Identify the part responsible for the ability. This separates the behavior from the person.
 2. Ask the part if it accepts the client’s goal.
 3. The Part is asked to use the creative part of the mind to find empowering memories, inner strengths, skills and abilities that satisfy the positive intention. 
-4. The Part is asked to pick the best of these new choices. Depending on the behavior it may be more appropriate for it to choose three or more new choices.
-5. The Part is asked to take the new choice and apply it. This can be combined with future pacing.
-6. Forced Ecology Check. A check is run to ensure the new behaviours fit in with every other part of the person.
+__Here is an opportunity to employ a different technique while the part searches__
+5. The Part is asked to pick the best of these new choices. Depending on the behavior it may be more appropriate for it to choose three or more new choices.
+6. The Part is asked to take the new choice and apply it. This can be combined with future pacing.
+7. Forced Ecology Check. A check is run to ensure the new behaviours fit in with every other part of the person.
 
 ## Anchoring
 
@@ -138,3 +139,11 @@ This can be understood through soul loss / soul retrieval. There are _Protectors
 - repeat 2 more times, on the third time, tell them it will lock in and **from today forward it will always bring them to that state**
 
 [[Arrow Technique]]
+
+[[APET]]
+## Lesson 7: Anxiety Session
+__The core of the system is the parts negotiation - if only doing one technique, use this__
+
+- combine multiple techniques to enhance
+- start parts negotiation, then do another technique, then return to parts work
+- 
